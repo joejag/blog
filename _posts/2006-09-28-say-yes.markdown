@@ -1,0 +1,24 @@
+---
+layout: post
+status: publish
+published: true
+title: Say Yes
+author:
+  display_name: Joe Wright
+  login: joejag
+  email: joe@joejag.com
+  url: ''
+author_login: joejag
+author_email: joe@joejag.com
+wordpress_id: 69
+wordpress_url: http://localhost/wordpress/?p=69
+date: !binary |-
+  MjAwNi0wOS0yOCAwOTozMDoyNCArMDEwMA==
+date_gmt: !binary |-
+  MjAwNi0wOS0yOCAwOTozMDoyNCArMDEwMA==
+categories:
+- code
+tags: []
+comments: []
+---
+<p>Hey, if anyone is interested in what I do for a living you can read a pdf article published on eclipse.org today <a href="http://www.eclipse.org/community/casestudies/jp_morgan_final.pdf">here</a>.  It's a fairly technical document but it highlights the RCP work I do everyday.</p>

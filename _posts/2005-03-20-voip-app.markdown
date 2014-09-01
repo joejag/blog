@@ -1,0 +1,87 @@
+---
+layout: post
+status: publish
+published: true
+title: voip app
+author:
+  display_name: Joe Wright
+  login: joejag
+  email: joe@joejag.com
+  url: ''
+author_login: joejag
+author_email: joe@joejag.com
+wordpress_id: 13
+wordpress_url: http://localhost/wordpress/?p=13
+date: !binary |-
+  MjAwNS0wMy0yMCAxNzoxODoyOCArMDAwMA==
+date_gmt: !binary |-
+  MjAwNS0wMy0yMSAwMDoxODoyOCArMDAwMA==
+categories:
+- Uncategorized
+tags: []
+comments:
+- id: 57
+  author: Joe Wright
+  author_email: joewright@gmail.com
+  author_url: http://screen-burn.neuropirate.com
+  date: !binary |-
+    MjAwNS0wMy0yNiAxMzoyMjoxNiArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNS0wMy0yNiAyMDoyMjoxNiArMDAwMA==
+  content: ! 'OS X please....
+
+
+    And Skype seems to work fine, no real problems with it.
+
+
+    Perhaps webcam? I know that could get very complicated very quickly though.
+
+
+    But still, I would use it, If it supported OSX.....'
+- id: 58
+  author: JoeJag
+  author_email: joe@Joe.com
+  author_url: http://www.joejag.com/wp
+  date: !binary |-
+    MjAwNS0wMy0yNiAxODoyNzoyMCArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNS0wMy0yNyAwMjoyNzoyMCArMDEwMA==
+  content: ! 'Hey,
+
+
+    I will be writing the Mac Version to comply to: Apple Mac OS X 10.3 using Carbon
+    Window System.
+
+
+    Fancy doing some beta testing later? :)
+
+
+    Cheers,
+
+    J.'
+- id: 59
+  author: killgore
+  author_email: ''
+  author_url: http://www.killgore.blog-city.com
+  date: !binary |-
+    MjAwNS0wNC0wOCAyMTowMDowMSArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNS0wNC0wOSAwNDowMDowMSArMDEwMA==
+  content: whats the point.. whats the point at all ? :-)
+- id: 60
+  author: Joe Wright
+  author_email: joewright@gmail.com
+  author_url: http://screen-burn.neuropirate.com
+  date: !binary |-
+    MjAwNS0wNC0xNCAwNDozNzozMCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNS0wNC0xNCAxMTozNzozMCArMDEwMA==
+  content: I would be glad to do some beta testing, just email me.
+---
+<p>I've been thinking recently.... shocking I know.</p>
+<p>I'm bored so I thought to develop my Java skills I would make a VOIP app (an online talkie to others thing).  Based around the idea of having a private network for businesses and stuff.  Skype seem to be doing this quite well atm but we're talking about the people that made Kazaa so we all know that it will all end in tears for anyone who becomes dependant on their software.</p>
+<p>I will be mimicking the GAIM user interface for it using SWT in Java (it's a pretty and fast User Interface library).  It will do voice, messaging and file transfer.  Getting it to work behind routers/firewalls will prove interesting as the only other way is by relaying stuff off an external server which isn't pretty for the network traffic.</p>
+<p>Anyway, I will be making it for Windows, Linux and Solaris or any other OS that supports Java and GTK.</p>
+<p>If anyone has any ideas on things they would love to see included in MSN that aren't etc.  Please leave a comment.</p>
+<p>Cheers,<br />
+JoeJag</p>

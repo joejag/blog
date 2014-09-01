@@ -1,0 +1,111 @@
+---
+layout: post
+status: publish
+published: true
+title: belgium!
+author:
+  display_name: Joe Wright
+  login: joejag
+  email: joe@joejag.com
+  url: ''
+author_login: joejag
+author_email: joe@joejag.com
+wordpress_id: 11
+wordpress_url: http://localhost/wordpress/?p=11
+date: !binary |-
+  MjAwNS0wMy0wMSAwNTozMTozNiArMDAwMA==
+date_gmt: !binary |-
+  MjAwNS0wMy0wMSAxMjozMTozNiArMDAwMA==
+categories:
+- Uncategorized
+tags: []
+comments:
+- id: 47
+  author: Joe Wright
+  author_email: joewright@gmail.com
+  author_url: http://screen-burn.neuropirate.com
+  date: !binary |-
+    MjAwNS0wMy0wMSAwOToyMTozMCArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNS0wMy0wMSAxNjoyMTozMCArMDAwMA==
+  content: ! 'Sounds good.
+
+
+    Europe rocks, beer is cheap and confusion is free.'
+- id: 48
+  author: killgORE
+  author_email: ''
+  author_url: http://killgore.blog-city.com
+  date: !binary |-
+    MjAwNS0wMy0wMSAxMjozODoxNyArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNS0wMy0wMSAxOTozODoxNyArMDAwMA==
+  content: ! 'nice to here it was nice.. I went to Nice once and it was nice. Sat
+    around "un bier ?", "combien ?" all day.. It was nice.
+
+
+    -- i have never been to Nice, and i do not have a niece.. Trying to rank your
+    sites on google with the word "nice".. nice of me isn''t it...*cough* NICE'
+- id: 49
+  author: Alison
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wMy0wMyAwNzoyNzo1NyArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNS0wMy0wMyAxNDoyNzo1NyArMDAwMA==
+  content: Miss you, but I have lots of beer to comfort myself with...mwah ha hah.....
+- id: 50
+  author: Graeme
+  author_email: thewl@hotmail.com
+  author_url: http://www.purevolume.com/rosaparks
+  date: !binary |-
+    MjAwNS0wMy0xMCAxNDoyNjozNyArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNS0wMy0xMCAyMToyNjozNyArMDAwMA==
+  content: Evening. GO TO WWW.PUREVOLUME.COM/ROSAPARKS  Now. That is an order.
+    The Belgians are Nazis. Bad ones.
+- id: 51
+  author: Joe 'JoeJagger' Wright
+  author_email: j@j.com
+  author_url: http://www.joejag.com
+  date: !binary |-
+    MjAwNS0wMy0xMSAwMzowMzozNSArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNS0wMy0xMSAxMDowMzozNSArMDAwMA==
+  content: ! 'That song is acutally quite good.
+
+
+    Perhaps shorter songs would be better?  Bit too SoundGarden length atm!'
+- id: 52
+  author: todfest
+  author_email: todfest@hotmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wMy0yNSAwMzowMzo1MiArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNS0wMy0yNSAxMDowMzo1MiArMDAwMA==
+  content: Never mind the beer....You went to belgium, but didn't mention buying chocolates
+    for your Mum!
+- id: 53
+  author: JoeJagger Wright
+  author_email: j@j.com
+  author_url: http://www.joejag.com
+  date: !binary |-
+    MjAwNS0wMy0yNSAxMDo0MDo1NyArMDAwMA==
+  date_gmt: !binary |-
+    MjAwNS0wMy0yNSAxNzo0MDo1NyArMDAwMA==
+  content: She got choclates on Mother's Day!
+- id: 54
+  author: Alison
+  author_email: ''
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wMy0yOSAwODoxODowMSArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNS0wMy0yOSAxNToxODowMSArMDEwMA==
+  content: I didn't get chocolates at all! (obviously I wouldn't be getting them on
+    mother's day :0
+---
+<p>Just back from Belgium here which to quote Ian Rush: "It's like living in another country".  First off they have far superior bars with menus of the many beers you can have (One bar boasted 2500, 2004 in stock at any given time) and their pubs don't close so you don't get thousands off ejits thrown onto the street at the same time.  You go home when you've had enough, interstingly Vodka is around &pound;4.50 so it's out of bounds (cheap in the super market though), although you do get the impresssion that beer is free over there.</p>
+<p>Driving is mad as they only just put in "voluntary" driving liscenses so every car comes with battle scars.  Other then that it's just your usual European adventure like 50cl Pints etc.  You do realise that the French you learnt at school was merely holiday French: how to order in restuarant, how to get a train ticket.  It's all devised to help you survive the likely circumstances you will find yourself in when you travel abroad.  Thankfully everyone in the world seems to speak English (/me tips hat to the yanks for making that so) so you can remain blissfully ignorant as soon as you don't understand.</p>

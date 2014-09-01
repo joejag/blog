@@ -1,0 +1,66 @@
+---
+layout: post
+status: publish
+published: true
+title: fkuny
+author:
+  display_name: Joe Wright
+  login: joejag
+  email: joe@joejag.com
+  url: ''
+author_login: joejag
+author_email: joe@joejag.com
+wordpress_id: 18
+wordpress_url: http://localhost/wordpress/?p=18
+date: !binary |-
+  MjAwNS0wNC0yMiAwMDoxNjoyNCArMDEwMA==
+date_gmt: !binary |-
+  MjAwNS0wNC0yMiAwNzoxNjoyNCArMDEwMA==
+categories:
+- Uncategorized
+tags: []
+comments:
+- id: 72
+  author: Alison
+  author_email: alisonthewliss@hotmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwNS0wNC0yMiAwMToxMToxMCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNS0wNC0yMiAwODoxMToxMCArMDEwMA==
+  content: Vrey cevelr. But spelling is important! Especially when you're writing
+    for non english speakers. Its all about getting a message across...
+- id: 73
+  author: Joe Wright
+  author_email: joewright@gmail.com
+  author_url: http://screen-burn.neuropirate.com
+  date: !binary |-
+    MjAwNS0wNC0yMiAwNzo1NjoyNyArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNS0wNC0yMiAxNDo1NjoyNyArMDEwMA==
+  content: ! 'meh, its old news man...
+
+
+    heheh'
+- id: 74
+  author: killgORE
+  author_email: sad@gits.com
+  author_url: http://www.paulritchie.tk
+  date: !binary |-
+    MjAwNS0wNC0yNSAxMTo1OToxNiArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNS0wNC0yNSAxODo1OToxNiArMDEwMA==
+  content: do not look at it... <- I found a sentance that looks messed up if you
+    apply the rules.
+- id: 75
+  author: killgORE
+  author_email: sad@gits.com
+  author_url: http://www.paulritchie.tk
+  date: !binary |-
+    MjAwNS0wNC0yNSAxMjowMDowNyArMDEwMA==
+  date_gmt: !binary |-
+    MjAwNS0wNC0yNSAxOTowMDowNyArMDEwMA==
+  content: hmm.. It borked my last comment.. just. I found a sentance that does not
+    work with the rules ^^
+---
+<p>I cdnuolt blveiee taht I cluod aulaclty uesdnatnrd waht I was rdanieg The phaonmneal pweor of the hmuan mnid Aoccdrnig to a rscheearch at Cmabrigde Uinervtisy, it deosn't mttaer inwaht oredr the ltteers in a wrod are, the olny iprmoatnt tihng is taht the frist and lsat ltteer be in the rghit pclae. The rset can be a taotl mses and you can sitll raed it wouthit a porbelm. Tihs is bcuseae the huamn mnid deos not raed ervey lteter by istlef, but the wrod as a wlohe. Amzanig huh? yaeh and I awlyas thought slpeling was ipmorantt!</p>

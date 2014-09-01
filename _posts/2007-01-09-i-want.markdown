@@ -1,0 +1,27 @@
+---
+layout: post
+status: publish
+published: true
+title: iWant
+author:
+  display_name: Joe Wright
+  login: joejag
+  email: joe@joejag.com
+  url: ''
+author_login: joejag
+author_email: joe@joejag.com
+wordpress_id: 75
+wordpress_url: http://localhost/wordpress/?p=75
+date: !binary |-
+  MjAwNy0wMS0wOSAyMzoxMDoxMiArMDAwMA==
+date_gmt: !binary |-
+  MjAwNy0wMS0wOSAyMzoxMDoxMiArMDAwMA==
+categories:
+- geek
+- life
+tags: []
+comments: []
+---
+<p>I've been underwhelmed by mobile phones for a while now, it seems a better megapixel camera is the killer feature I'm supposed to excited about.  Let's hear it for <a href="http://news.bbc.co.uk/1/hi/technology/6246063.stm">change</a>.</p>
+<p>Gawp: <a href="http://www.apple.com/iphone/">iPhone</a><br />
+Specs: <a href="http://www.apple.com/iphone/technology/specs.html">Phone + iPod + Internet</a></p>

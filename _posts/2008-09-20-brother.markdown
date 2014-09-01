@@ -1,0 +1,129 @@
+---
+layout: post
+status: publish
+published: true
+title: Brother
+author:
+  display_name: Joe Wright
+  login: joejag
+  email: joe@joejag.com
+  url: ''
+author_login: joejag
+author_email: joe@joejag.com
+wordpress_id: 88
+wordpress_url: http://localhost/wordpress/?p=88
+date: !binary |-
+  MjAwOC0wOS0yMCAxOToxMjo1MiArMDEwMA==
+date_gmt: !binary |-
+  MjAwOC0wOS0yMCAxOToxMjo1MiArMDEwMA==
+categories:
+- music
+tags: []
+comments:
+- id: 292
+  author: Steven Morrison
+  author_email: sgmorrison@gmail.com
+  author_url: ''
+  date: !binary |-
+    MjAwOC0wOS0yMSAwMDoyNDo0NiArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOC0wOS0yMCAyMzoyNDo0NiArMDEwMA==
+  content: Sounds like you're channelling a bit of Everclear in the verses. Nice.
+- id: 293
+  author: Paul Ritchie
+  author_email: paul.ritchie@gmail.com
+  author_url: http://www.cornerpirate.com
+  date: !binary |-
+    MjAwOC0wOS0yMSAxMDowMToxNSArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOC0wOS0yMSAwOTowMToxNSArMDEwMA==
+  content: ! 'Good work, make more. See I did the guitar thing, moved on to Ukelele,
+    and realised that its all been done. So I evolved:
+
+
+    http://cornerpirate.com/worp/wp-content/uploads/2008/09/parapa.mp3'
+- id: 294
+  author: JoeJag
+  author_email: joe@joejag.com
+  author_url: http://
+  date: !binary |-
+    MjAwOC0wOS0yMSAxOTozMDoxMSArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOC0wOS0yMSAxODozMDoxMSArMDEwMA==
+  content: ! '@Steve
+
+
+    Everclear is indeed a very important joint influence.  I certainly hope you mean
+    early Everclear though!
+
+
+    @Paul
+
+
+    I hope you''ve sent that track into Tim Westwood!  I''m sure you''ve seen your
+    <a href="http://video.google.com/videoplay?docid=-4559510005057780538"
+    rel="nofollow">greater ukele calling</a>.'
+- id: 295
+  author: Paul Ritchie
+  author_email: paul.ritchie@gmail.com
+  author_url: http://www.cornerpirate.com
+  date: !binary |-
+    MjAwOC0wOS0yMSAyMToyNjo1NCArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOC0wOS0yMSAyMDoyNjo1NCArMDEwMA==
+  content: ! 'No.. I went back to guitars.. I think I need to finish this song !
+
+
+    http://www.cornerpirate.com//worp/wp-content/uploads//2008/09/dr-who.mp3
+
+
+    Haha'
+- id: 296
+  author: Kevin McDonagh
+  author_email: kevin@appletv.co.uk
+  author_url: ''
+  date: !binary |-
+    MjAwOC0xMC0wNyAwMzoxNzozMyArMDEwMA==
+  date_gmt: !binary |-
+    MjAwOC0xMC0wNyAwMjoxNzozMyArMDEwMA==
+  content: Nice, yeah you should make more and post them up.
+---
+<p><!-- raw html --><br />
+I've been playing the guitar for a while now.  This usually involves you liking a song and then googling the guitar tab so you can play it.  One (dark) day my Internet connection was down so I thought I'd play random notes.  After a while the notes formed a song.<br />
+<br /><br />
+<script src='/j/jquery.cross-slide.js' type='text/javascript'></script><br />
+<br /><br />
+Vocals are by my brother Sam, and the song is called Brother:<br />
+<br /></p>
+<p><br /></p>
+<style type="text/css">
+  #test2 {<br />
+    margin: 1em auto;<br />
+    border: 2px solid #555;<br />
+    width: 490px;<br />
+    height: 400px;<br />
+  }<br />
+</style></p>
+<p><script type='text/javascript' id='source-test2'>//< ![CDATA[<br />
+$(function() {<br />
+$('#test2').crossSlide({<br />
+  sleep: 3,  //sec<br />
+  fade: 1    //sec<br />
+}, [<br />
+  { src: '/i/brother/india1.jpg' },<br />
+  { src: '/i/brother/india2.jpg' },<br />
+  { src: '/i/brother/india3.jpg' },<br />
+  { src: '/i/brother/dublin1.jpg' },<br />
+  { src: '/i/brother/dublin2.jpg' },<br />
+  { src: '/i/brother/dublin3.jpg' },<br />
+  { src: '/i/brother/dublin4.jpg' },<br />
+  { src: '/i/brother/dublin5.jpg' }<br />
+]);<br />
+});<br />
+//]]></script></p>
+<div id='test2'>Loading&euro;&brvbar;</div><br />
+<script type='text/javascript' id='display-test2'><br />
+  displaySource("test2");<br />
+</script></p>
+<p><embed type="application/x-shockwave-flash" src="http://www.google.com/reader/ui/3247397568-audio-player.swf?audioUrl=http://www.joejag.com/archive/Brother1.mp3"                width="490"                height="27" allowscriptaccess="never"                quality="best"                bgcolor="#ffffff"                wmode="window"               flashvars="playerMode=embedded" /><br />
+<br /></p>
