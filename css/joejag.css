@@ -23,12 +23,23 @@ a.post-title {
 }
 
 article {
-  padding-left: 8em;
+  padding-top: 1em;
+  padding-left: 6em;
   margin-left: 1em;
   margin-bottom: 1em;
   position: relative;
-  border-bottom: rgb(255, 237, 237) dotted;
+}
 
+article.bordered {
+  border-top: rgb(255, 237, 237) dotted;
+}
+
+.year {
+  text-align: center;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  font-size: 0.8em;
+  color: rgb(170, 170, 170);
 }
 
 time {
@@ -36,7 +47,7 @@ time {
   position: absolute;
   text-align: right;
   left: 0em;
-  top: 0em;
+  top: 1em;
   line-height: 2.2em;
   color: rgb(170, 170, 170);
 }
@@ -75,6 +86,7 @@ article {
 }
 
 time {
+ top: 0;
  position: relative;
  line-height: 1em;
 }

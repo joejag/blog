@@ -7,10 +7,21 @@ title: Joejag  Just Another Geek
   <div class="posts">
     {% for post in site.posts %}
       {% unless post.categories contains 'old' %}
+
+      {% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
+
+      {% if currentyear != year %}
+      <h3 class="year">{ {{ currentyear }} }</h3>
+      {% capture year %}{{currentyear}}{% endcapture %}
+
+
       <article>
+          {% else %}
+          <article class="bordered">
+          {% endif %}
           <h1><a class='post-title' href="{{ post.url }}">{{ post.title }}</a></h1>
           <time datetime="{{ post.date }}">
-              {{ post.date | date_to_string }}
+              {{ post.date | date: "%b %d" }}
           </time>
       </article>
       {% endunless %}
