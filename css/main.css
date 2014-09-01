@@ -14,8 +14,7 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font: 13.34px Helvetica, Arial, sans-serif;
-  font-size: small;
+  font-family: "Open Sans", Calibri, Candara, Arial, sans-serif;
   text-align: center;
 }
 
@@ -25,9 +24,9 @@ h1, h2, h3, h4, h5, h6 {
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a         { color: color: #222; }
+a:hover   { color: color: #222; }
+a:visited { color: color: #222; }
 
 /*****************************************************************************/
 /*
@@ -35,7 +34,6 @@ a:visited { color: #a0a; }
 /*
 /*****************************************************************************/
 .posts {
-  list-style-type: none;
   margin-bottom: 2em;
 }
 
@@ -45,8 +43,6 @@ a:visited { color: #a0a; }
 
 .posts span {
   color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
-  font-size: 80%;
 }
 
 /*****************************************************************************/
@@ -63,7 +59,7 @@ a:visited { color: #a0a; }
   line-height: 1.5em;
 }
 
-.header a {
+header a {
   font-weight: bold;
   text-decoration: none;
 }
@@ -81,12 +77,12 @@ a:visited { color: #a0a; }
   color: #000;
 }
 
-.header a.extra {
+header a.extra {
   color: #aaa;
   margin-left: 1em;
 }
 
-.header a.extra:hover {
+header a.extra:hover {
   color: #000;
 }
 
