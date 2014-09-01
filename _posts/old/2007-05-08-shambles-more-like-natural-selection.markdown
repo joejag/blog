@@ -17,7 +17,7 @@ date: !binary |-
 date_gmt: !binary |-
   MjAwNy0wNS0wOCAxNDozMDoyMiArMDEwMA==
 categories:
-- politics
+- Old
 tags: []
 comments:
 - id: 287

@@ -17,7 +17,7 @@ date: !binary |-
 date_gmt: !binary |-
   MjAwNy0wMy0yMCAwMTowNDo0NyArMDAwMA==
 categories:
-- music
+- Old
 tags: []
 comments:
 - id: 285

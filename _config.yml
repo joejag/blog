@@ -1,3 +1,5 @@
 name: Joejag  Just Another Geek 
 markdown: redcarpet
 highlighter: true
+
+permalink:     /:year/:title.html

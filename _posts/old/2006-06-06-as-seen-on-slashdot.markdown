@@ -17,7 +17,7 @@ date: !binary |-
 date_gmt: !binary |-
   MjAwNi0wNi0wNiAxMzoxNTowMiArMDEwMA==
 categories:
-- fun
+- Old
 tags: []
 comments:
 - id: 227

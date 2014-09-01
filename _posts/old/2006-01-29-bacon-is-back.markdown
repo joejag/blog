@@ -17,9 +17,7 @@ date: !binary |-
 date_gmt: !binary |-
   MjAwNi0wMS0yOSAyMDo0NjoyMCArMDAwMA==
 categories:
-- code
-- fun
-- geek
+- Old
 tags: []
 comments: []
 ---

@@ -17,8 +17,7 @@ date: !binary |-
 date_gmt: !binary |-
   MjAwNi0wNS0xNyAxMTo0MDoyNSArMDEwMA==
 categories:
-- football
-- fun
+- Old
 tags: []
 comments:
 - id: 200

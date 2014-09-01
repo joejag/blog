@@ -17,8 +17,7 @@ date: !binary |-
 date_gmt: !binary |-
   MjAwNi0wMi0yNCAwOTozNzozMCArMDAwMA==
 categories:
-- code
-- life
+- Old
 tags: []
 comments:
 - id: 155
