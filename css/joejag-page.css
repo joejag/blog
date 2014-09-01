@@ -18,6 +18,16 @@ h2 {
  right: -15px;
 }
 
+blockquote {
+  color: #666;
+  background-color: #fbfbfb;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 1.5em 2em;
+  border: 1px solid #f0f0f0;
+}
+
+
 @media (max-width: 500px) {
   h2 {
    font-size: 1.75em;
