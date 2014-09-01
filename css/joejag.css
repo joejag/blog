@@ -10,11 +10,16 @@ header {
   margin-bottom: 1em;
 }
 
-.post-title {
+a.post-title {
   font-size: 1.5em;
-  text-decoration: none;
   color: #222;
   line-height: 1.4em;
+}
+
+.post-title:hover {
+  color: #0181eb;
+  transition: color 0.3s;
+  text-decoration: underline;
 }
 
 article {
@@ -34,4 +39,43 @@ time {
   top: 0em;
   line-height: 2.2em;
   color: rgb(170, 170, 170);
+}
+
+@media (max-width: 800px) {
+.site {
+  width: 26em;
+  margin: 3em auto 2em;
+}
+}
+
+@media (max-width: 500px) {
+p {
+  font-size:0.85em;
+  line-height: 1.6em;
+}
+
+.title {
+  font-size: 1.5em;
+  margin-bottom: 1em;
+}
+.site {
+  width: 20em;
+  margin: 3em auto 2em;
+}
+
+.post-title {
+  font-size: 1.5em;
+  line-height: 1.2em;
+}
+
+article {
+  padding-left: 0em;
+  margin-left: 0em;
+  margin-bottom: 1em;
+}
+
+time {
+ position: relative;
+ line-height: 1em;
+}
 }

@@ -17,3 +17,9 @@ h2 {
  position: relative;
  right: -15px;
 }
+
+@media (max-width: 500px) {
+  h2 {
+   font-size: 1.75em;
+  }
+}
