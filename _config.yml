@@ -3,3 +3,7 @@ markdown: redcarpet
 highlighter: true
 
 permalink:     /:year/:title.html
+
+ftp_host: 'joejag.com'
+ftp_dir: '/public_html'
+ftp_passive: false
