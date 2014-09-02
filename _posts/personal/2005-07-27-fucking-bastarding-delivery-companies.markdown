@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: fucking bastarding delivery companies
+title: Fucking bastarding delivery companies
 author:
   display_name: Joe Wright
   login: joejag

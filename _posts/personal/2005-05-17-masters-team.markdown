@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: go team!
+title: Masters Team
 author:
   display_name: Joe Wright
   login: joejag

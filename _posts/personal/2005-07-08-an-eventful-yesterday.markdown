@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: an eventful yesterday
+title: An eventful yesterday
 author:
   display_name: Joe Wright
   login: joejag

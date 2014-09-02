@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Wake Up
+title: Hello Agile
 author:
   display_name: Joe Wright
   login: joejag

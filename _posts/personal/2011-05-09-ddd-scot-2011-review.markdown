@@ -22,7 +22,7 @@ categories:
 tags: []
 comments: []
 ---
-<p>Last Saturday I attended the Developer Developer Developer Scotland 2011 conference in Glasgow.  I <a href= "http://www.joejag.com/wp/2011/05/ddd-scot-2011-plan/">posted before</a> about the sessions I'd planned to attend, which I ended up ignoring.</p>
+<p>Last Saturday I attended the Developer Developer Developer Scotland 2011 conference in Glasgow.</p>
 <p>The event itself was exceptionally well run, timing was like clockwork and you didn't see anyone running around trying to find the right video adapter for their laptop.  It's incredible that such a well run event can also be free.  The only minor problem was the lack of air conditioning, which meant enduring a tropical climate for popular sessions.</p>
 <p>Personally I haven't had to code for .NET for anything serious since 2007, so I'm not overly keen on attending sessions on ASP.NET or about the latest library being reproduced for c# programmers.  This has proved tricky at previous DDD conferences I've attended where you have no choice but to attend a .NET based session.  Thankfully this conference proved to accommodate with sessions where the programming language wasn't important.</p>
 <p>I started the day off at an open discussion event hosted by <a href="http://craignicol.wordpress.com/">Craig Nicol</a> on "Professional Development".  There were only a few of us at the session but it was a wonderful way to wake up at 9am while discussing what we all considered traits of a professional developer.  Craig guided the session by using a mind map already containing the BCS definition of professional development.  Colouful anecdotes were retold by the session attendees and it was good to hear about the working environments of others.</p>

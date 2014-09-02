@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: I got soul, but I'm not a soldier
+title: Job, Code, Life
 author:
   display_name: Joe Wright
   login: joejag

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: I'm Looking Through You
+title: Graduation (again)
 author:
   display_name: Joe Wright
   login: joejag

@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Link Movies!
+title: Link Movies with the power of Kevin Bacon
 author:
   display_name: Joe Wright
   login: joejag

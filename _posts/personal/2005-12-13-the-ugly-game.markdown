@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: portfolio
+title: The Ugly Game
 author:
   display_name: Joe Wright
   login: joejag

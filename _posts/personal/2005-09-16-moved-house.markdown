@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: moved house!
+title: Moved house!
 author:
   display_name: Joe Wright
   login: joejag

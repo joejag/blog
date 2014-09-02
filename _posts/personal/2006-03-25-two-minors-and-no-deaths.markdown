@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: Apologies to the Queen Mary
+title: Two minors and no deaths
 author:
   display_name: Joe Wright
   login: joejag
