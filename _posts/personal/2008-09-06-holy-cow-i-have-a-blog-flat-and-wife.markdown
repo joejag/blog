@@ -53,4 +53,4 @@ comments:
 <p>The huge news that I have is that in August this year Alison and I got <a href="http://flickr.com/photos/potatojunkie/sets/72157606648321511/">married</a> in the Trades Hall in Glasgow. We had an awesome day that wethoroughly enjoyed. We went to Florence for our honeymoon and drank many espressos.</p>
 <p>Now I've updated my blog and gave it a shiny new skin I'm planning to update it more often again (this is the 10 millionth time this has been said on a blog).</p>
 <p>It's good to be back!</p>
-<p><img src="/i/blog/married.jpg" /></p>
+<p><img src="{{ site.url }}/images/2008/married.jpg" /></p>

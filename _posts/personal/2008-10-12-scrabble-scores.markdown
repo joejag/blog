@@ -56,12 +56,12 @@ comments:
 <p>I heard some pundits on the radio jostling about sports players with the best surnames for Scabble (ignoring the proper nouns rule).  The best they came up with was Wayne Gretzky with 24.  Unfortunately for the world, this made me think this would be a pretty nifty short programming task to do (<a href="http://www.mywiredempire.com/svn/repos/dave_thomas_kata/src/kata/football/">src</a>, <a href="http://www.mywiredempire.com/svn/repos/dave_thomas_kata/test/kata/football/">tests</a>).  Doesn't everyone hobby code over the weekend?</p>
 <p>Scrabble has rules to abide by, such as no hypenated words (good bye <a href="http://en.wikipedia.org/wiki/Eric_Djemba-Djemba">Eric Djemba-Djemba</a>) and due to the English character set we can't have any accentated letters (goodbye the otherwise similarly fantasticly named winner <a href="http://en.wikipedia.org/wiki/Francisco_Jim%C3%A9nez_Tejada">Francisco Jim&eacute;nez Tejada</a>)</p>
 <p>So here goes, the official best scrabble surnames for any player ever to have played in the English Premier League (one player allowed per letter for better distribution/bad code):</p>
-<p><img style="float: right; padding-left: 5px;" src="http://www.joejag.com/i/blog/scrabble_invalid.jpg" alt="" width="110" height="121" /></p>
+<p><img style="float: right; padding-left: 5px;" src="{{ site.url }}/images/2008/scrabble_invalid.jpg" alt="" width="110" height="121" /></p>
 <p>1. <a href="http://en.wikipedia.org/wiki/Tomasz_Kuszczak"><strong>Kuszczak</strong></a> -> 36<br />
 2. <a href="http://en.wikipedia.org/wiki/Giuseppe_Mazzarelli">Mazzarelli</a> -> 30<br />
 3. <a href="http://en.wikipedia.org/wiki/Paolo_Tramezzani">Tramezzani</a> -> 30</p>
 <p>But wait!  None of those names can be created using the letters available in the Scrabble set.  So ignoring these heathens we are given:</p>
-<p><img style="float: left; padding-right: 5px;" src="http://www.joejag.com/i/blog/scrabble_winner.jpg" alt="" width="109" height="149" /></p>
+<p><img style="float: left; padding-right: 5px;" src="{{ site.url }}/images/2008/scrabble_winner.jpg" alt="" width="109" height="149" /></p>
 <p>1. <a href="http://en.wikipedia.org/wiki/Zurab_Khizanishvili"><strong>Khizanishvili</strong></a> -> 35<br />
 2. <a href="http://en.wikipedia.org/wiki/Vlado_Bozinovski">Bozinovski</a>-> 28<br />
 2. <a href="http://en.wikipedia.org/wiki/Robert_Warzycha">Warzycha</a> -> 28<br />

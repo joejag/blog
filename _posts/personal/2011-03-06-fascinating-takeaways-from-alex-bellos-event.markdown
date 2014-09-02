@@ -47,11 +47,11 @@ comments:
 <h3>Tallying systems</h3></p>
 <p>Tally marks are a form of numeral used for counting. They allow updating written intermediate results without erasing or discarding anything written down.  The system Europeans are used to seeing is the 4 single 1s with a strike to represent a 5.</p>
 <p>This system is pretty simple and often used:<br />
-<img src="http://localhost/wordpress/wp-content/uploads/2011/03/euro.png" alt="" title="euro" width="406" height="71" class="aligncenter size-full wp-image-1167" /></p>
+<img src="{{ site.url }}/images/2011/euro.png" alt="" title="euro" width="406" height="71" class="aligncenter size-full wp-image-1167" /></p>
 <p>However, in South America they use a system where you build a box:<br />
-<img src="http://localhost/wordpress/wp-content/uploads/2011/03/south_american.png" alt="" title="south_american" width="351" height="71" class="aligncenter size-full wp-image-1168" /></p>
+<img src="{{ site.url }}/images/2011/south_american.png" alt="" title="south_american" width="351" height="71" class="aligncenter size-full wp-image-1168" /></p>
 <p>And in China they use the 5 lines that make up the parts of their number 5:<br />
-<img src="http://localhost/wordpress/wp-content/uploads/2011/03/chinese.png" alt="" title="chinese" width="351" height="82" class="aligncenter size-full wp-image-1169" /></p>
+<img src="{{ site.url }}/images/2011/chinese.png" alt="" title="chinese" width="351" height="82" class="aligncenter size-full wp-image-1169" /></p>
 <p>I'm going to switch to using the the South American system!</p>
 <h3>Japanese Abacus counting system</h3></p>
 <p>Alex also showed a video of some Japanese kids who excel at adding numbers together. They are using an abacus system in their mind which makes counting a visual rather than an arithmetic problem.</p>

@@ -78,7 +78,7 @@ comments:
 
     Thanks for being a part of this!'
 ---
-<p><img src="http://farm4.static.flickr.com/3393/3496860292_79bf4e159b.jpg?v=0" /></p>
+<p><img src="{{ site.url }}/images/2009/talks.jpg" /></p>
 <p>This week has been a great week for hearing about new tech.  On Tuesday I did a presentation at work about <a href="https://hudson.dev.java.net">Hudson</a> and <a href="http://sonar.codehaus.org/">Sonar</a>.  Hudson is a CI server and Sonar is a great way to track metrics on your codebase.</p>
 <p>On Wednesday I went along to the Java User Group Scotland and checked out a great talk done by <a href="http://bozdagstudio.com/selcuk/">Selcuk Bozdag</a> on <a href="http://www.adobe.com/products/flex/">Flex</a> development.  Flex allows you to make pretty cool Flash based applications which can talk to remote services.  It isn't tied to Java like I originally thought.  There's an awful lot of out of the box charting and video tools which seem useful.</p>
 <p>On Saturday I went along to the Microsoft sponsored <a href="http://www.developerdayscotland.com/main/Default.aspx">Developer Day</a> event.  They had 4 different tracts offering mainly .NET and MS SQL Server talks.  I enjoyed listening to the Virtulisation and Ruby on .NET talks especially.  I then managed to find some Perl/Flex developers I could talk loudly about the evil that is IE6 to restore the balance.</p>

@@ -65,7 +65,6 @@ comments:
 </ul></p>
 <h3>Coding Dojo Talk at Techmeetup</h3></p>
 <p>I spoke at a <a href="http://techmeetup.co.uk/blog/2009/08/coding-dojos-meets-public-service/">Glasgow Techmeetup</a> recently about <a href="http://code.joejag.com/2009/the-coding-dojo/">Coding Dojos</a>.  It's something I found very easy to talk about as I've been running one for over a year within JPMorgan.  I've volunteered to host one for the .NET crowd in Scotland too.</p>
-<p><img src="http://techmeetup.co.uk/blog/wp-content/uploads/2009/08/Glasgow_July_1_320-300x199.jpg"/></p>
 <p>The audience was different from usual as we had another presenter from the Channel 4 investment fund.  So half the crowd was there to ask why he kept rejecting their ideas.  </p>
 <p>I think my talk went quite well as there were a lot of questions at the end.  One bit of feedback I received was that I shouldn't use my hands in a velociraptor style as it scares the crowd.  I'll look out for that in the future.</p>
 <p>Here is the video of the talk.</p>

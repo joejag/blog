@@ -21,7 +21,7 @@ categories:
 tags: []
 comments: []
 ---
-<p><a href="http://www.leanagilescotland.com/" target="_blank"><img src="http://goo.gl/CIqJb"></a></p>
+<p><a href="http://www.leanagilescotland.com/" target="_blank"><img src="{{ site.url }}/images/2012/leanagilescotland_2012.png" /></a></p>
 <p>Hello dear readers,</p>
 <p>I'm delighted to say that I will be speaking at the inaugural <a href="http://www.leanagilescotland.com/">Lean Agile Scotland</a> conference in September. I'll be evangelising about <a href="http://en.wikipedia.org/wiki/Continuous_delivery">Continuous Delivery</a> to the best and brightest in the industry and I would encourage you to get a ticket while they are available.</p>
 <p>If you send me a mail/tweet I'll send you a 10% discount code I have to further entice you.</p>
