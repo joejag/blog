@@ -3,11 +3,13 @@
 header {
   border-bottom: black solid;
   margin-bottom: 2em;
+  text-align: center;
 }
 
 .title {
   font-size: 2em;
   margin-bottom: 1em;
+  padding-left: 0.1em;
 }
 
 a.post-title {
