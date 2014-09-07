@@ -80,7 +80,7 @@ comments:
 
     Joe'
 ---
-<p>Last year I put together a <a href="http://www.joejag.com/wp/whisky-guide/">single malt Whisky guide</a> to help me understand the different Whisky experiences you can have.  Hopefully that's encouraged some people to have their own Whisky adventures.  I've put together this short guide that you can use to have your very own Whisky tasting session.</p>
+<p>Last year I put together a <a href="{% post_url /personal/2009-03-05-single-walt-whisky-guide %}">single malt Whisky guide</a> to help me understand the different Whisky experiences you can have.  Hopefully that's encouraged some people to have their own Whisky adventures.  I've put together this short guide that you can use to have your very own Whisky tasting session.</p>
 <p>To have a rewarding Whisky tasting you should line up 3 or more different drams that allow you to experience the differences between them.</p>
 
 <h3>Equipment</h3></p>
