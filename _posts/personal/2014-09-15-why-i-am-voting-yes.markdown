@@ -11,7 +11,7 @@ There are two main reasons for me making this huge decision. The first is the ca
 
 ### Representation
 
-Scotland is a country, and should get the government it votes for. Over 38 of the last 68 years we've been governed by a party that did not have the consent of the Scottish people. While we may share a common culture with the rest of the United Kingdom, we have diverged significantly over the last 30 years in our principles.
+Scotland is a country, and should get the government for which it votes. Over 38 of the last 68 years we've been governed by a party that did not have the consent of the Scottish people. While we may share a common culture with the rest of the United Kingdom, we have diverged significantly over the last 30 years in our principles.
 
 This difference is becoming more and more polarised. Westminster has to work at the scale of the whole United Kingdom and do what is best for the majority. Unfortunately this means that Scotland's interests are insignificant and the will of its people can be easily ignored:
 
@@ -23,9 +23,9 @@ On __energy__, where Scotland has masses of potential for renewables, enough to 
 
 On __welfare__, where the poorer amongst us are being demonized by polices like the Bedroom Tax and Work Capability Assessments. Policies that target and hurt the most vulnerable of our society.
 
-On __defence__, where when the entire Scottish parliament voted against going to war in Iraq, but were ignored.
+On __defence__, where the entire Scottish parliament voted against going to war in Iraq, but were ignored.
 
-With English parties now battling against the rise of right-wing parties like UKIP, the BNP and with Labour leaving their trade union past behind. We are only going to see more polices that Scotland fundamentally disagrees with, but is helpless to prevent.
+English parties are now battling against the rise of right-wing parties like UKIP and the BNP, and Labour are leaving their trade union past behind. We are only going to see more polices with which Scotland fundamentally disagrees, but is helpless to prevent.
 
 ### Social Justice
 
@@ -35,7 +35,7 @@ Over the last few years, families that are living pay cheque to pay cheque have 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/gXexkSFW3xM" frameborder="0" allowfullscreen></iframe>
 
-We live in one of the richest countries in the world. Not being able to provide food for all in our society in unacceptable, yet this is the political path we have been set by Westminster.
+We live in one of the richest countries in the world. Not being able to provide food for all in our society is unacceptable, yet this is the political path we have been set by Westminster.
 
 ### A Brighter Future
 
