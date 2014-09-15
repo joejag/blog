@@ -19,7 +19,7 @@ This difference is becoming more and more polarised. Westminster has to work at 
 
 Three main powers remain reserved to Westminster. For each Scotland has a radically differing view on. 
 
-On __energy__, where Scotland has masses of potential for renewables, enough to make north sea oil appear insignificant, yet we focus on building a new generation of expensive nuclear power stations.
+On __energy__, where Scotland has masses of potential for renewables, enough to make north sea oil appear insignificant, yet Westminster focuses on building a new generation of expensive nuclear power stations instead.
 
 On __welfare__, where the poorer amongst us are being demonized by polices like the Bedroom Tax and Work Capability Assessments. Policies that target and hurt the most vulnerable of our society.
 
