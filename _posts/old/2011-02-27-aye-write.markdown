@@ -11,7 +11,7 @@ author:
 author_login: joejag
 author_email: joe@joejag.com
 wordpress_id: 1142
-wordpress_url: http://www.joejag.com/wp/?p=1142
+wordpress_url: https://www.joejag.com/wp/?p=1142
 date: !binary |-
   MjAxMS0wMi0yNyAxODozOTowOSArMDAwMA==
 date_gmt: !binary |-
@@ -22,7 +22,7 @@ tags: []
 comments: []
 ---
 <p>In March the <a href="http://www.ayewrite.com/Pages/default.aspx">Aye Write book festival</a> will be bringing authors from around the world to Glasgow's Mitchell Library.  The annual festival started in 2007 and this year has a special focus on science and technology.</p>
-<p><a href="http://www.ayewrite.com/Pages/default.aspx"><img src="http://www.joejag.com/wp/wp-content/uploads/2011/02/aye-write-logo.gif" alt="" title="aye-write-logo" width="439" height="84" class="aligncenter size-full wp-image-1161" /></a></p>
+<p><a href="http://www.ayewrite.com/Pages/default.aspx"><img src="https://www.joejag.com/wp/wp-content/uploads/2011/02/aye-write-logo.gif" alt="" title="aye-write-logo" width="439" height="84" class="aligncenter size-full wp-image-1161" /></a></p>
 <p>Here are the events for which I've bought tickets so far...</p>
 <ul>
 <li>6th March: <a href="http://www.ayewrite.com/programme/events/Pages/alexbellos.aspx">Alex&rsquo;s Adventures in Numberland</a>

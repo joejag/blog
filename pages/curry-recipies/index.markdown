@@ -11,7 +11,7 @@ author:
 author_login: joejag
 author_email: joe@joejag.com
 wordpress_id: 667
-wordpress_url: http://www.joejag.com/wp/?page_id=667
+wordpress_url: https://www.joejag.com/wp/?page_id=667
 date: !binary |-
   MjAwOS0wMy0yMSAyMToxMzowNyArMDAwMA==
 date_gmt: !binary |-
@@ -20,7 +20,7 @@ categories: []
 tags: []
 comments: []
 ---
-<p><img class="image_left" src="http://www.joejag.com/i/posts/garlic_ginger.jpg" /></p>
+<p><img class="image_left" src="https://www.joejag.com/i/posts/garlic_ginger.jpg" /></p>
 <p>One teaspoon equals 1 garlic clove and 1/2 cm fresh ginger piece.</p>
 <h2>Butter Chicken</h2></p>
 <p><b>Marinade:</b> Chicken, 200ml Yogurt, 3t garlic & ginger puree, 2/3t red chilli powder, 1/4t coriander powder, 1/2t cumin powder, 1/2t garam masala, 1/2t salt. 2t Lime jiuice<br />

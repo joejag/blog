@@ -11,7 +11,7 @@ author:
 author_login: joejag
 author_email: joe@joejag.com
 wordpress_id: 940
-wordpress_url: http://www.joejag.com/wp/?page_id=940
+wordpress_url: https://www.joejag.com/wp/?page_id=940
 date: !binary |-
   MjAxMC0wMy0wNCAxODo0NDoxMSArMDAwMA==
 date_gmt: !binary |-
@@ -42,7 +42,7 @@ comments: []
 <hr />
 <h2>7 March 2010</h2></p>
 <h3>Details</h3></p>
-<p><img src="http://www.joejag.com/wp/wp-content/uploads/2010/03/the_musician.jpg" alt="" title="the_musician" style="float: left; padding-right: 10px;" /></p>
+<p><img src="https://www.joejag.com/wp/wp-content/uploads/2010/03/the_musician.jpg" alt="" title="the_musician" style="float: left; padding-right: 10px;" /></p>
 <p><b>Name</b>: The Musician<br />
 <b>Producer</b>: Majella<br />
 <b>Appellation</b>: Coonawarra<br />
@@ -61,7 +61,7 @@ comments: []
 <p>Wonderful balance of the blackcurrant Cab and spicy Shiraz with a slight acidity.  Mixes together with a Mint after taste, a great wine.</p>
 <h2>5 March 2010</h2></p>
 <h3>Details</h3></p>
-<p><img src="http://www.joejag.com/wp/wp-content/uploads/2010/03/domaine_des_marechaudes.jpg" alt="" title="domaine_des_marechaudes" style="float: right; padding-left: 10px;" /></p>
+<p><img src="https://www.joejag.com/wp/wp-content/uploads/2010/03/domaine_des_marechaudes.jpg" alt="" title="domaine_des_marechaudes" style="float: right; padding-left: 10px;" /></p>
 <p><b>Name</b>: Domaine des Mar&eacute;chaudes Bourgogne<br />
 <b>Producer</b>: Domaine des Mar&eacute;chaudes<br />
 <b>Appellation</b>: Bourgogne<br />
@@ -79,7 +79,7 @@ comments: []
 <p><b>Rating</b>: 92<br />
 Exactly as Oddbins say.  It's a medium bodied Pinot Noir with a wonderful nose.  Everything I want from this sort of wine.  Highly recommended.</p>
 <h2>4 March 2010</h2></p>
-<p><img src="http://www.joejag.com/wp/wp-content/uploads/2010/03/08-IB-Pinot-Noir1.jpg" alt="" title="08 IB Pinot Noir" width="218" height="372" style="float: left; padding-right: 10px;" /></p>
+<p><img src="https://www.joejag.com/wp/wp-content/uploads/2010/03/08-IB-Pinot-Noir1.jpg" alt="" title="08 IB Pinot Noir" width="218" height="372" style="float: left; padding-right: 10px;" /></p>
 <h3>Details</h3></p>
 <p><b>Name</b>: Innocent Bystander ('08 Pinot Noir)<br />
 <b>Producer</b>: Innocent Bystander<br />

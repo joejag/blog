@@ -11,7 +11,7 @@ author:
 author_login: joejag
 author_email: joe@joejag.com
 wordpress_id: 50
-wordpress_url: http://www.joejag.com/wp/?p=50
+wordpress_url: https://www.joejag.com/wp/?p=50
 date: !binary |-
   MjAwNi0wMy0wNiAxNDo0NDozMyArMDAwMA==
 date_gmt: !binary |-
@@ -72,7 +72,7 @@ comments:
     MjAwNi0wMy0wOSAyMjo1MjozNyArMDAwMA==
   date_gmt: !binary |-
     MjAwNi0wMy0wOSAyMjo1MjozNyArMDAwMA==
-  content: ! 'http://www.joejag.com/jagpics/grad04/normal_uni23.jpg
+  content: ! 'https://www.joejag.com/jagpics/grad04/normal_uni23.jpg
 
 
     H0h0h. Thats the face of JoeVOD when he has pissed his strides. Oh. The famous

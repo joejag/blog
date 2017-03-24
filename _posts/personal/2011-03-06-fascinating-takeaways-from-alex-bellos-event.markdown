@@ -11,7 +11,7 @@ author:
 author_login: joejag
 author_email: joe@joejag.com
 wordpress_id: 1164
-wordpress_url: http://www.joejag.com/wp/?p=1164
+wordpress_url: https://www.joejag.com/wp/?p=1164
 date: !binary |-
   MjAxMS0wMy0wNiAxNzozNDo1NiArMDAwMA==
 date_gmt: !binary |-
@@ -41,7 +41,7 @@ comments:
 
     It''s good to see authors like that coming to Glasgow.'
 ---
-<p>I'm just back from attending an <a href="http://www.ayewrite.com/programme/events/Pages/alexbellos.aspx">Alex Bellos</a> event as part of the <a href="http://www.joejag.com/wp/2011/02/aye-write">Aye Write festival</a>.  Alex has spent the last few years traveling the world exploring how different cultures approach mathematics.</p>
+<p>I'm just back from attending an <a href="http://www.ayewrite.com/programme/events/Pages/alexbellos.aspx">Alex Bellos</a> event as part of the <a href="https://www.joejag.com/wp/2011/02/aye-write">Aye Write festival</a>.  Alex has spent the last few years traveling the world exploring how different cultures approach mathematics.</p>
 <p>The talk covered an eclectic mix of topics ranging from the mathematical reasons for Puff Daddy becoming P Diddy to pre-electronic calculators designed to be used in rally cars.</p>
 <p>I'm going to talk about the three parts of his talk that I found most interesting.</p>
 <h3>Tallying systems</h3></p>

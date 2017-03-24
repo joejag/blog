@@ -11,7 +11,7 @@ author:
 author_login: joejag
 author_email: joe@joejag.com
 wordpress_id: 558
-wordpress_url: http://www.joejag.com/wp/?p=558
+wordpress_url: https://www.joejag.com/wp/?p=558
 date: !binary |-
   MjAwOS0wMi0yMiAxMzo0OTowNSArMDAwMA==
 date_gmt: !binary |-
@@ -23,7 +23,7 @@ comments:
 - id: 303
   author: ! 'JoeJag :: Just Another Geek :: Tools you need to use #3: Twitter'
   author_email: ''
-  author_url: http://www.joejag.com/wp/?p=803
+  author_url: https://www.joejag.com/wp/?p=803
   date: !binary |-
     MjAwOS0wNi0wNSAyMjoyNTo1MCArMDEwMA==
   date_gmt: !binary |-

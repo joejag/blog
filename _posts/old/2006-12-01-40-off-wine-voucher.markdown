@@ -11,7 +11,7 @@ author:
 author_login: joejag
 author_email: joe@joejag.com
 wordpress_id: 73
-wordpress_url: http://www.joejag.com/wp/?p=73
+wordpress_url: https://www.joejag.com/wp/?p=73
 date: !binary |-
   MjAwNi0xMi0wMSAyMDozNzo1MiArMDAwMA==
 date_gmt: !binary |-
@@ -23,4 +23,4 @@ comments: []
 ---
 <p>You love it, this voucher gets you 40% off Wine/Champagne instore at Threshers/Wine Rack/Bottoms Up/Haddows/The Local up to the 10th December.</p>
 <p>BBC Article: <a href="http://news.bbc.co.uk/1/hi/business/6198828.stm">here</a>.<br />
-PDF of the Voucher: <a href="http://www.joejag.com/archive/ThreshersCoupon.pdf">here</a>.</p>
+PDF of the Voucher: <a href="https://www.joejag.com/archive/ThreshersCoupon.pdf">here</a>.</p>

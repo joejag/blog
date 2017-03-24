@@ -11,7 +11,7 @@ author:
 author_login: joejag
 author_email: joe@joejag.com
 wordpress_id: 596
-wordpress_url: http://www.joejag.com/wp/?page_id=596
+wordpress_url: https://www.joejag.com/wp/?page_id=596
 date: !binary |-
   MjAwOS0wMy0wNSAwMDoxMzoxNyArMDAwMA==
 date_gmt: !binary |-
@@ -22,7 +22,7 @@ comments:
 - id: 3
   author: ! 'JoeJag :: Just Another Geek :: Single Walt Whisky Guide'
   author_email: ''
-  author_url: http://www.joejag.com/wp/?p=621
+  author_url: https://www.joejag.com/wp/?p=621
   date: !binary |-
     MjAwOS0wMy0wNSAwMDo0MzozMyArMDAwMA==
   date_gmt: !binary |-
@@ -51,7 +51,7 @@ td+td {	border-left: 1px solid #CCC;	text-align: center;	}<br />
 <p>There are 6 main Whisky producing regions in Scotland of which Speyside is by far the largest producer.  I recommend you start off with a well known brand then explore more from the same region.</p>
 <p>Regions: <span class="islay">islay</span>, <span class="lowland">lowland</span>, <span class="campbletown">campbletown</span>, <span class="island">island</span>, <span class="speyside">Speyside</span>, <span class="highland">highland</span><br />
 <br /><br /></p>
-<p><img src="http://www.joejag.com/i/posts/scotch_regions.png" width="400" height="400"></p>
+<p><img src="https://www.joejag.com/i/posts/scotch_regions.png" width="400" height="400"></p>
 <p>Ones in <span class="owned">bold</span> are my favourites!  Of the Whisky I've tried, I have to agree with <a href="http://www.luxist.com/2008/06/05/prince-charles-visits-laphroaig-confirms-royal-warrant/">Prince Charles</a> on my favourite, which is the <span class="islay">Islay</span> malt Laphroaig.</p>
 <table>
 <tr class="classification">

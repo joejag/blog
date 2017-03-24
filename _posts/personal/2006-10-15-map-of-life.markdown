@@ -11,7 +11,7 @@ author:
 author_login: joejag
 author_email: joe@joejag.com
 wordpress_id: 70
-wordpress_url: http://www.joejag.com/wp/?p=70
+wordpress_url: https://www.joejag.com/wp/?p=70
 date: !binary |-
   MjAwNi0xMC0xNSAxOTo0MTo1MiArMDEwMA==
 date_gmt: !binary |-
@@ -109,4 +109,4 @@ comments:
 ---
 <p>Hello dear readers,</p>
 <p>Often when meeting people I am asked how long I have lived in Glasgow and where else I have lived.  As I have lived at about 15 different addresses this is a rather difficult question to answer.  So behold the answer!</p>
-<p><a href="http://maps.google.co.uk/?q=http://www.joejag.com/mylife.kml?reload">The Google Map of Joe</a></p>
+<p><a href="http://maps.google.co.uk/?q=https://www.joejag.com/mylife.kml?reload">The Google Map of Joe</a></p>

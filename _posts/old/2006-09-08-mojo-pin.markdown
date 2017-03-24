@@ -11,7 +11,7 @@ author:
 author_login: joejag
 author_email: joe@joejag.com
 wordpress_id: 67
-wordpress_url: http://www.joejag.com/wp/?p=67
+wordpress_url: https://www.joejag.com/wp/?p=67
 date: !binary |-
   MjAwNi0wOS0wOCAxMjo1MzoyOCArMDEwMA==
 date_gmt: !binary |-
@@ -43,7 +43,7 @@ comments:
     MjAwNi0wOS0wOCAxMzo1ODo0MiArMDEwMA==
   content: ! "And I look so unimpressed and hungover! \n\nWait, that's my usual state..."
 ---
-<p><a href="http://www.joejag.com/jagpics/leeds/normal_stella2.JPG">Alison</a> sent me this in an email.  Seems Adobe were getting google searches from terms they don't want to be associated with:<br />
+<p><a href="https://www.joejag.com/jagpics/leeds/normal_stella2.JPG">Alison</a> sent me this in an email.  Seems Adobe were getting google searches from terms they don't want to be associated with:<br />
 <center><br />
 <img src="/pics/adobe.jpg" /><br />
 </center></p>

@@ -11,7 +11,7 @@ author:
 author_login: joejag
 author_email: joe@joejag.com
 wordpress_id: 55
-wordpress_url: http://www.joejag.com/wp/?p=55
+wordpress_url: https://www.joejag.com/wp/?p=55
 date: !binary |-
   MjAwNi0wNS0xNyAxMTo0MDoyNSArMDEwMA==
 date_gmt: !binary |-

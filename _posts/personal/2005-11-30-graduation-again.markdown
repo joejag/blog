@@ -11,7 +11,7 @@ author:
 author_login: joejag
 author_email: joe@joejag.com
 wordpress_id: 42
-wordpress_url: http://www.joejag.com/wp/?p=42
+wordpress_url: https://www.joejag.com/wp/?p=42
 date: !binary |-
   MjAwNS0xMS0zMCAxMzo1MjozMCArMDAwMA==
 date_gmt: !binary |-
@@ -99,7 +99,7 @@ comments:
 - id: 125
   author: JoeJag
   author_email: joe@joejag.com
-  author_url: http://www.joejag.com
+  author_url: https://www.joejag.com
   date: !binary |-
     MjAwNS0xMi0xNCAxMTowNzoxMiArMDAwMA==
   date_gmt: !binary |-
@@ -145,7 +145,7 @@ comments:
     everyone's sober... Not sure if I want a perfect utopia where I can't drink!
 ---
 <p>Ah well another year and another graduation!</p>
-<p>Photos are up for all who wish to see, some <a href="http://www.joejag.com/grad/groupgrad/">group ones</a> and ones <a href="http://www.joejag.com/grad/justme/">just of me</a>.  The event itself was quite fun, I went up with my family on the Friday night to check into our hotel.  I definitely will the most geek points as I was in room 404.  Paul Ritchie was staying in room 401 so he came across the corridor and we watched his Pixies DVD on repeat ordering room service beer till 6am.  This left me in a fragile state for the graduation itself but I was hungover enough to appreciate the chat (my mum informs me I reeked off booze so apologies to all who had to put up with that!).</p>
+<p>Photos are up for all who wish to see, some <a href="https://www.joejag.com/grad/groupgrad/">group ones</a> and ones <a href="https://www.joejag.com/grad/justme/">just of me</a>.  The event itself was quite fun, I went up with my family on the Friday night to check into our hotel.  I definitely will the most geek points as I was in room 404.  Paul Ritchie was staying in room 401 so he came across the corridor and we watched his Pixies DVD on repeat ordering room service beer till 6am.  This left me in a fragile state for the graduation itself but I was hungover enough to appreciate the chat (my mum informs me I reeked off booze so apologies to all who had to put up with that!).</p>
 <p>Today is St Andrews day so there's been rumblings around obviously.  One interesting thing is a group trying to create a <a href="http://www.dotsco.org/">.SCO TLD</a>.  As all other nations have a 2 letter TLD I seriously doubt this will be pulled off.  Maybe a .sc.uk could be used and ones also made for the other UK territorial countries.  My favourite part of the radio this morning was hearing people bang on about Franz Ferdinand being the best band in the world at the moment and they <a href="http://en.wikipedia.org/wiki/Alex_Kapranos">should</a> <a href="http://en.wikipedia.org/wiki/Robert_Hardy_%28bassist%29">make</a> <a href="http://en.wikipedia.org/wiki/Nicholas_McCarthy">Scotland</a> <a href="http://en.wikipedia.org/wiki/Paul_Thomson">proud</a>.  I reckon they are a superb one trick pony that we all fall in love with until the third album arrives.</p>
 <p>Good news at work is my PC has been severely blinged out over the last week.  A new install of 2GB RAM and a pimp daddy 19&euro; TFT installed along with a good MS Optical Mouse, let's hear it for saving money on projects to spend on blinging PCs.  Over the last few weeks people have been mentioning Unreal Tournament for lunch times, I'm obviously getting very excited!</p>
 <p>Oh, and remember not to spend all your wages, we're getting xmas presents out of this paycheque!</p>

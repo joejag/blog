@@ -11,7 +11,7 @@ author:
 author_login: joejag
 author_email: joe@joejag.com
 wordpress_id: 92
-wordpress_url: http://www.joejag.com/wp/?page_id=92
+wordpress_url: https://www.joejag.com/wp/?page_id=92
 date: !binary |-
   MjAwOC0xMC0wNSAxODoyMDo0NCArMDEwMA==
 date_gmt: !binary |-
@@ -53,7 +53,7 @@ $('#test2').crossSlide({<br />
 <script type='text/javascript' id='display-test2'><br />
   displaySource("test2");<br />
 </script></p>
-<p><embed type="application/x-shockwave-flash" src="http://www.google.com/reader/ui/3247397568-audio-player.swf?audioUrl=http://www.joejag.com/archive/Brother1.mp3"                width="490"                height="27" allowscriptaccess="never"                quality="best"                bgcolor="#ffffff"                wmode="window"               flashvars="playerMode=embedded" /><br />
+<p><embed type="application/x-shockwave-flash" src="http://www.google.com/reader/ui/3247397568-audio-player.swf?audioUrl=https://www.joejag.com/archive/Brother1.mp3"                width="490"                height="27" allowscriptaccess="never"                quality="best"                bgcolor="#ffffff"                wmode="window"               flashvars="playerMode=embedded" /><br />
 <br /></p>
 <h3>Lyrics</h3></p>
 <div class="quote_box" style="text-align: center;">

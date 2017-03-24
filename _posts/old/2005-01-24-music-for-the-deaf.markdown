@@ -11,7 +11,7 @@ author:
 author_login: joejag
 author_email: joe@joejag.com
 wordpress_id: 7
-wordpress_url: http://www.joejag.com/wp/?p=7
+wordpress_url: https://www.joejag.com/wp/?p=7
 date: !binary |-
   MjAwNS0wMS0yNCAxMTo0MDoyOSArMDAwMA==
 date_gmt: !binary |-
@@ -77,7 +77,7 @@ comments:
 - id: 23
   author: Joe Wright
   author_email: j@j.com
-  author_url: http://www.joejag.com/wp
+  author_url: https://www.joejag.com/wp
   date: !binary |-
     MjAwNS0wMi0wMSAxMTo0MjoxMSArMDAwMA==
   date_gmt: !binary |-
@@ -119,7 +119,7 @@ comments:
 - id: 26
   author: Joe 'JoeJagger' Wright
   author_email: j@j.com
-  author_url: http://www.joejag.com/wp
+  author_url: https://www.joejag.com/wp
   date: !binary |-
     MjAwNS0wMi0wOSAxMDoxOTo1NyArMDAwMA==
   date_gmt: !binary |-

@@ -11,7 +11,7 @@ author:
 author_login: joejag
 author_email: joe@joejag.com
 wordpress_id: 806
-wordpress_url: http://www.joejag.com/wp/?p=806
+wordpress_url: https://www.joejag.com/wp/?p=806
 date: !binary |-
   MjAwOS0wNi0yNiAyMTo1NToxNSArMDEwMA==
 date_gmt: !binary |-
@@ -40,7 +40,7 @@ comments:
 - id: 316
   author: admin
   author_email: joe@joejag.com
-  author_url: http://www.joejag.com
+  author_url: https://www.joejag.com
   date: !binary |-
     MjAwOS0wNi0yNiAyMjoxNzo0MyArMDEwMA==
   date_gmt: !binary |-
@@ -68,7 +68,7 @@ comments:
 - id: 318
   author: admin
   author_email: joe@joejag.com
-  author_url: http://www.joejag.com
+  author_url: https://www.joejag.com
   date: !binary |-
     MjAwOS0wNi0yNiAyMjoyNToyNyArMDEwMA==
   date_gmt: !binary |-
@@ -95,7 +95,7 @@ comments:
 - id: 320
   author: admin
   author_email: joe@joejag.com
-  author_url: http://www.joejag.com
+  author_url: https://www.joejag.com
   date: !binary |-
     MjAwOS0wOC0xMyAwMDowMjo0OCArMDEwMA==
   date_gmt: !binary |-

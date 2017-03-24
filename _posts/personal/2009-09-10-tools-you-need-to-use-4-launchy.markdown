@@ -11,7 +11,7 @@ author:
 author_login: joejag
 author_email: joe@joejag.com
 wordpress_id: 845
-wordpress_url: http://www.joejag.com/wp/?p=845
+wordpress_url: https://www.joejag.com/wp/?p=845
 date: !binary |-
   MjAwOS0wOS0xMCAxOTowOToyNyArMDEwMA==
 date_gmt: !binary |-
@@ -39,7 +39,7 @@ comments:
 - id: 326
   author: admin
   author_email: joe@joejag.com
-  author_url: http://www.joejag.com
+  author_url: https://www.joejag.com
   date: !binary |-
     MjAwOS0wOS0xMCAyMjozNjoyOSArMDEwMA==
   date_gmt: !binary |-
@@ -63,7 +63,7 @@ comments:
 - id: 328
   author: Joe Wright
   author_email: joe@joejag.com
-  author_url: http://www.joejag.com
+  author_url: https://www.joejag.com
   date: !binary |-
     MjAwOS0wOS0xMSAxMzoyNToyMSArMDEwMA==
   date_gmt: !binary |-
@@ -83,7 +83,7 @@ comments:
 - id: 330
   author: Joe Wright
   author_email: joe@joejag.com
-  author_url: http://www.joejag.com
+  author_url: https://www.joejag.com
   date: !binary |-
     MjAwOS0wOS0yMiAxNDowMTo1MyArMDEwMA==
   date_gmt: !binary |-
@@ -115,7 +115,7 @@ comments:
 <p>If you work in a job which requires you to use the Start Menu to launch applications, you can become much more productive (and happy) by using Launchy.</p>
 <h3>Other tools you need to use</h3></p>
 <ul>
-<li><a href="http://www.joejag.com/wp/2009/06/tools-you-need-to-use-3-twitter/">Twitter</a></li>
-<li><a href="http://www.joejag.com/wp/2009/02/tools-you-need-to-use-2-delicious/">Delicious</a></li>
-<li><a href="http://www.joejag.com/wp/2009/02/tools-you-need-to-use-google-reader/">Google Reader</a></li><br />
+<li><a href="https://www.joejag.com/wp/2009/06/tools-you-need-to-use-3-twitter/">Twitter</a></li>
+<li><a href="https://www.joejag.com/wp/2009/02/tools-you-need-to-use-2-delicious/">Delicious</a></li>
+<li><a href="https://www.joejag.com/wp/2009/02/tools-you-need-to-use-google-reader/">Google Reader</a></li><br />
 </ul></p>
