@@ -1,9 +1,12 @@
 name: Joejag - Just Another Geek
-markdown: redcarpet
-highlighter: true
+markdown: kramdown
+future: true
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data"]
 
-permalink:     /:year/:title.html
+highligher: true
+permalink: /:year/:title.html
+gems:
+  - jekyll-redirect-from
 
-ftp_host: 'joejag.com'
-ftp_dir: '/public_html'
-ftp_passive: false
+url: http://www.joejjag.com

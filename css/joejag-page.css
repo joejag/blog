@@ -19,7 +19,9 @@ h2 {
 }
 
 h3 {
-	font-size: 1.5em;
+  font-size: 1.5em;
+  margin-top: 0.75em;
+  margin-bottom: 0.75em;
 }
 
 blockquote {
@@ -36,4 +38,21 @@ blockquote {
   h2 {
    font-size: 1.75em;
   }
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: rgb(238, 238, 238);}
+
+th {
+  background-color: rgb(102, 102, 102);
+  color: white;
 }
