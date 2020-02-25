@@ -9,4 +9,4 @@ permalink: /:year/:title.html
 gems:
   - jekyll-redirect-from
 
-url: http://www.joejjag.com
+url: http://www.joejag.com
