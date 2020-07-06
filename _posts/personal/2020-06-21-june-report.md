@@ -52,7 +52,9 @@ Lockdown and injuries have scuppered my progress in 2020, but I'm feeling on top
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In light of recent events I’m educating myself. This is excellent so far, good stories and eye-opening science about how humans have developed. <a href="https://t.co/IrB67QFFdn">pic.twitter.com/IrB67QFFdn</a></p>&mdash; Joe Wright (@joe_jag) <a href="https://twitter.com/joe_jag/status/1267572143233085442?ref_src=twsrc%5Etfw">June 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-* My biggest laugh of the month came from Google mailing me with my travel highlights in May:
+* My biggest laugh of the month came from Google mailing me with my cultural highlights in May:
+
+<img alt='tesco was my cultural highlight' width="100%" src="{{ site.url }}/images/2020/tesco.png" />
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Google absolutely nailing my travel highlights for May <a href="https://t.co/XWqTUSOLWJ">pic.twitter.com/XWqTUSOLWJ</a></p>&mdash; Joe Wright (@joe_jag) <a href="https://twitter.com/joe_jag/status/1268823535033749504?ref_src=twsrc%5Etfw">June 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
