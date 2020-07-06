@@ -48,15 +48,13 @@ Lockdown and injuries have scuppered my progress in 2020, but I'm feeling on top
 
 * 5k time down to 24:30s from 26m:53s. I was delighted to break the 25m barrier.
 * Ewa and I recorded two podcast episodes on how tech groups are responding to the PPE shortage in Scotland. It was super inspiring to hear their stories. You can [listen along on the CodeCraft website](https://www.codecraftuk.org/podcast/season_two/2020/05/ppe-in-scotland-part-one) or your favourite PodCast app
-* Given the events across in the USA, I've dedicated my time to learn more about racism and anti-racism. It's amazing how ignorant I was six weeks ago, and how ignorant I still will be now. Even so, there's loads of good material in print and online to help you learn more. I found this book to be superb for explaining that genetically it's all bunk. Race is real, but it's a social construct:
+* Given the events across in the USA, I've dedicated my time to learn more about racism and anti-racism. It's amazing how ignorant I was six weeks ago, and how ignorant I still will be now. Even so, there's loads of good material in print and online to help you learn more. I found this book to be superb for explaining that genetically it's all bunk. Race is a social construct - and we've got so much to do:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">In light of recent events I’m educating myself. This is excellent so far, good stories and eye-opening science about how humans have developed. <a href="https://t.co/IrB67QFFdn">pic.twitter.com/IrB67QFFdn</a></p>&mdash; Joe Wright (@joe_jag) <a href="https://twitter.com/joe_jag/status/1267572143233085442?ref_src=twsrc%5Etfw">June 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 * My biggest laugh of the month came from Google mailing me with my cultural highlights in May:
 
 <img alt='tesco was my cultural highlight' width="100%" src="{{ site.url }}/images/2020/tesco.png" />
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Google absolutely nailing my travel highlights for May <a href="https://t.co/XWqTUSOLWJ">pic.twitter.com/XWqTUSOLWJ</a></p>&mdash; Joe Wright (@joe_jag) <a href="https://twitter.com/joe_jag/status/1268823535033749504?ref_src=twsrc%5Etfw">June 5, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Best Tweets
 
