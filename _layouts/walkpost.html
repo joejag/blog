@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<h2>{{ page.title }}</h2>
+<p class="meta">{{ page.date | date: "%b %e, %Y" }}</p>
+
+<div class="post">
+  {{ content }}
+</div>
+
+<script>
+  lightGallery(document.getElementById('lightgallery'), {})
+</script>

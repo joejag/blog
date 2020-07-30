@@ -5,7 +5,7 @@ title: Joejag  Just Another Geek
 
 <div id="home">
   <div class="posts">
-    {% for post in site.categories.blog %}
+    {% for post in site.posts %}
       {% unless post.categories contains 'old' %}
 
       {% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
