@@ -17,8 +17,6 @@ date: !binary |-
   MjAwOS0wNC0yMiAxMToyODowMyArMDEwMA==
 date_gmt: !binary |-
   MjAwOS0wNC0yMiAxMToyODowMyArMDEwMA==
-
-- life
 tags: []
 comments: []
 ---

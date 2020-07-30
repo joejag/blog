@@ -17,22 +17,20 @@ date: !binary |-
   MjAxMi0wMy0yMiAyMDo0NjowOCArMDAwMA==
 date_gmt: !binary |-
   MjAxMi0wMy0yMiAyMDo0NjowOCArMDAwMA==
-
-- life
 tags: []
 comments:
-- id: 345
-  author: Nina baker
-  author_email: nina.baker@strath.ac.uk
-  author_url: http://www.facebook.com/pages/Geek-Guide-to-Glasgow/165104550264079?sk=info
-  date: !binary |-
-    MjAxMi0wNy0yNiAwODo1Njo0MCArMDEwMA==
-  date_gmt: !binary |-
-    MjAxMi0wNy0yNiAwODo1Njo0MCArMDEwMA==
-  content: ! "Hi,\nI am writing a Geek Guide to Glasgow and intend to include your
-    blog in the Social section, based on the fact that you have recently organised
-    a Startup. Is that OK with you? \n\nI would be glad of any suggestions you might
-    have for places, contacts etc that the visiting or newly-resident Geek might like.\n\nthanks\nnina"
+  - id: 345
+    author: Nina baker
+    author_email: nina.baker@strath.ac.uk
+    author_url: http://www.facebook.com/pages/Geek-Guide-to-Glasgow/165104550264079?sk=info
+    date: !binary |-
+      MjAxMi0wNy0yNiAwODo1Njo0MCArMDEwMA==
+    date_gmt: !binary |-
+      MjAxMi0wNy0yNiAwODo1Njo0MCArMDEwMA==
+    content: ! "Hi,\nI am writing a Geek Guide to Glasgow and intend to include your
+      blog in the Social section, based on the fact that you have recently organised
+      a Startup. Is that OK with you? \n\nI would be glad of any suggestions you might
+      have for places, contacts etc that the visiting or newly-resident Geek might like.\n\nthanks\nnina"
 ---
 
 <p>For the first time the runaway success that has been the <a href="http://startupweekend.org/">Startup Weekend</a> movement is coming to <a href="http://glasgow.startupweekend.org/">Glasgow on 25-27th May</a>.  </p>

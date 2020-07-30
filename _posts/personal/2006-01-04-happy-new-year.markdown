@@ -17,102 +17,100 @@ date: !binary |-
   MjAwNi0wMS0wNCAwNToxMzo1MyArMDAwMA==
 date_gmt: !binary |-
   MjAwNi0wMS0wNCAwNToxMzo1MyArMDAwMA==
-
-- music
 tags: []
 comments:
-- id: 132
-  author: Alison
-  author_email: alisonthewliss@hotmail.com
-  author_url: ''
-  date: !binary |-
-    MjAwNi0wMS0wNCAwNTozMTowNSArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNi0wMS0wNCAxMjozMTowNSArMDAwMA==
-  content: ! '"It&euro;&trade;s a rock with your cock out athemn"
+  - id: 132
+    author: Alison
+    author_email: alisonthewliss@hotmail.com
+    author_url: ''
+    date: !binary |-
+      MjAwNi0wMS0wNCAwNTozMTowNSArMDAwMA==
+    date_gmt: !binary |-
+      MjAwNi0wMS0wNCAxMjozMTowNSArMDAwMA==
+    content: ! '"It&euro;&trade;s a rock with your cock out athemn"
 
 
-    So that''s what you''ve been doing when I''m out of the flat....'
-- id: 133
-  author: Paul Ritchie
-  author_email: ritchie_paul@hotmail.com
-  author_url: http://otherendofthespectrum.com
-  date: !binary |-
-    MjAwNi0wMS0wNCAwNTozNTo1MSArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNi0wMS0wNCAxMjozNTo1MSArMDAwMA==
-  content: ! '/points_out {that the last line was the last line in the original
-    which is why its there.}
+      So that''s what you''ve been doing when I''m out of the flat....'
+  - id: 133
+    author: Paul Ritchie
+    author_email: ritchie_paul@hotmail.com
+    author_url: http://otherendofthespectrum.com
+    date: !binary |-
+      MjAwNi0wMS0wNCAwNTozNTo1MSArMDAwMA==
+    date_gmt: !binary |-
+      MjAwNi0wMS0wNCAxMjozNTo1MSArMDAwMA==
+    content: ! "/points_out {that the last line was the last line in the original
+      which is why its there.}
 
 
-    You could right sloshy tush like that back in the 30''s.'
-- id: 134
-  author: Paul Ritchie
-  author_email: ritchie_paul@hotmail.com
-  author_url: http://otherendofthespectrum.com
-  date: !binary |-
-    MjAwNi0wMS0wNCAwNTo0MDo1MiArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNi0wMS0wNCAxMjo0MDo1MiArMDAwMA==
-  content: ! 'oh yea. And, btw. I could print the stories on the aggregator at request
-    because I have the whole stories as a variable.
+      You could right sloshy tush like that back in the 30's."
+  - id: 134
+    author: Paul Ritchie
+    author_email: ritchie_paul@hotmail.com
+    author_url: http://otherendofthespectrum.com
+    date: !binary |-
+      MjAwNi0wMS0wNCAwNTo0MDo1MiArMDAwMA==
+    date_gmt: !binary |-
+      MjAwNi0wMS0wNCAxMjo0MDo1MiArMDAwMA==
+    content: ! "oh yea. And, btw. I could print the stories on the aggregator at request
+      because I have the whole stories as a variable.
 
 
-    I just don''t print it. Was thinking a hidden div and when u click on the link
-    it could fill it with the story.
+      I just don't print it. Was thinking a hidden div and when u click on the link
+      it could fill it with the story.
 
 
-    It doesnt have all the blogs involved in it atm. But could do.'
-- id: 135
-  author: JoeJag
-  author_email: joe@joejag.com
-  author_url: http://
-  date: !binary |-
-    MjAwNi0wMS0wNCAwOTozMDowMiArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNi0wMS0wNCAxNjozMDowMiArMDAwMA==
-  content: ! 'Re:Pointed out line
+      It doesnt have all the blogs involved in it atm. But could do."
+  - id: 135
+    author: JoeJag
+    author_email: joe@joejag.com
+    author_url: http://
+    date: !binary |-
+      MjAwNi0wMS0wNCAwOTozMDowMiArMDAwMA==
+    date_gmt: !binary |-
+      MjAwNi0wMS0wNCAxNjozMDowMiArMDAwMA==
+    content: ! 'Re:Pointed out line
 
 
-    ok, so it''s a tip of the hat back to the original but the way it is done makes
-    you want to retch, seriously not the best way to end the movie.  They updated
-    the effects they could surely get away with updating the final line?  Ah well,
-    guess you can''t satisfy everybody.
+      ok, so it''s a tip of the hat back to the original but the way it is done makes
+      you want to retch, seriously not the best way to end the movie.  They updated
+      the effects they could surely get away with updating the final line?  Ah well,
+      guess you can''t satisfy everybody.
 
 
-    Re: Aggregator
+      Re: Aggregator
 
 
-    It does it''s job as it is.  I suppose you would naturally have to add comment
-    functionality after adding the posts and then you''ve just re-engineered the entire
-    blog system.
+      It does it''s job as it is.  I suppose you would naturally have to add comment
+      functionality after adding the posts and then you''ve just re-engineered the entire
+      blog system.
 
 
-    If this was the case then you could just go to: <a href="http://www.bloglines.com"
-    rel="nofollow">bloglines.com</a> instead.'
-- id: 136
-  author: JoeVOD
-  author_email: jleythorne@gmail.com
-  author_url: http://ccgi.macross1.plus.com
-  date: !binary |-
-    MjAwNi0wMS0wOSAyMjoxMDoyMCArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNi0wMS0wOSAyMjoxMDoyMCArMDAwMA==
-  content: ! 'Shhhhhhhhhhh.  Don''t compare Acarde Fire to The Flaming Lips.  I got
-    attacked by a music journalist and a bunch of others for saying so.  Besides,
-    they sound more like Talking Heads.
+      If this was the case then you could just go to: <a href="http://www.bloglines.com"
+      rel="nofollow">bloglines.com</a> instead.'
+  - id: 136
+    author: JoeVOD
+    author_email: jleythorne@gmail.com
+    author_url: http://ccgi.macross1.plus.com
+    date: !binary |-
+      MjAwNi0wMS0wOSAyMjoxMDoyMCArMDAwMA==
+    date_gmt: !binary |-
+      MjAwNi0wMS0wOSAyMjoxMDoyMCArMDAwMA==
+    content: ! "Shhhhhhhhhhh.  Don't compare Acarde Fire to The Flaming Lips.  I got
+      attacked by a music journalist and a bunch of others for saying so.  Besides,
+      they sound more like Talking Heads.
 
 
-    So Ha to you then.'
-- id: 137
-  author: JoeJag
-  author_email: joe@joejag.com
-  author_url: http://
-  date: !binary |-
-    MjAwNi0wMS0xMCAwOTo1MDoyMiArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNi0wMS0xMCAwOTo1MDoyMiArMDAwMA==
-  content: I think we can both agree that argument is on the road to nowhere...
+      So Ha to you then."
+  - id: 137
+    author: JoeJag
+    author_email: joe@joejag.com
+    author_url: http://
+    date: !binary |-
+      MjAwNi0wMS0xMCAwOTo1MDoyMiArMDAwMA==
+    date_gmt: !binary |-
+      MjAwNi0wMS0xMCAwOTo1MDoyMiArMDAwMA==
+    content: I think we can both agree that argument is on the road to nowhere...
 ---
 
 <p>Happy new year all,</p>
