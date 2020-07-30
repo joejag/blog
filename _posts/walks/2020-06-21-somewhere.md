@@ -1,8 +1,7 @@
 ---
 layout: post
-categories: ['blog']
-categories: ['blog']
-title: June 2020 Health Report
+categories: ['walk']
+title: Somewhere
 ---
 
 Half a year ago, I let you all know that I am suffering from [liver disease](/2019/liver-disease) and doing what I can to reverse it.

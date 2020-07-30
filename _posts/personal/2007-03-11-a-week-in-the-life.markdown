@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 status: publish
 published: true
 title: A Week In The Life
@@ -16,32 +17,32 @@ date: !binary |-
   MjAwNy0wMy0xMSAwMTo0NTowOCArMDAwMA==
 date_gmt: !binary |-
   MjAwNy0wMy0xMSAwMTo0NTowOCArMDAwMA==
-categories:
-- life
+
 tags: []
 comments:
-- id: 284
-  author: Paul Ritchie
-  author_email: ritchie_paul@hotmail.com
-  author_url: http://www.otherendofthespectrum.com
-  date: !binary |-
-    MjAwNy0wMy0xOCAyMjoxNzo0OCArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNy0wMy0xOCAyMToxNzo0OCArMDAwMA==
-  content: ! 'awesome! Sounds like a classic week.
+  - id: 284
+    author: Paul Ritchie
+    author_email: ritchie_paul@hotmail.com
+    author_url: http://www.otherendofthespectrum.com
+    date: !binary |-
+      MjAwNy0wMy0xOCAyMjoxNzo0OCArMDAwMA==
+    date_gmt: !binary |-
+      MjAwNy0wMy0xOCAyMToxNzo0OCArMDAwMA==
+    content: ! 'awesome! Sounds like a classic week.
 
 
-    Myself and Joe Leyth have had a cut down version  using just the weekend days
-    Fri. and Sat.
+      Myself and Joe Leyth have had a cut down version  using just the weekend days
+      Fri. and Sat.
 
 
-    We purposely avoided any Irish drinks on the Sat. as it somehow seems retarded
-    to sponsor the guiness corporation annually for no apparent reason. Drinking started
-    at I think 8:30 am and went through until the pubs kicked us out about 2am.
+      We purposely avoided any Irish drinks on the Sat. as it somehow seems retarded
+      to sponsor the guiness corporation annually for no apparent reason. Drinking started
+      at I think 8:30 am and went through until the pubs kicked us out about 2am.
 
 
-    Good weekend !'
+      Good weekend !'
 ---
+
 <p>I don't seem to be very good at using up all my alloted holiday days so I was left with 5 days leave from last year to use by the end of the month.  A plan was needed, I wanted to have 5 days that I will remember for being the best week I could have this year.</p>
 <p>I needed this to be great, so I invited my brother to come up and stay for a week as it's sod all use having a great time on your own, Alison was at work this week.  Now we just needed events.</p>
 <p><b>Monday</b></p>

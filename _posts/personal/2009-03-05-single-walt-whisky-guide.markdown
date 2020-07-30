@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 status: publish
 published: true
 title: Single Malt Whisky Guide
@@ -16,38 +17,38 @@ date: !binary |-
   MjAwOS0wMy0wNSAwMDo0MzoyOCArMDAwMA==
 date_gmt: !binary |-
   MjAwOS0wMy0wNSAwMDo0MzoyOCArMDAwMA==
-categories:
-- Uncategorized
+
 tags: []
 comments:
-- id: 306
-  author: Paul Ritchie
-  author_email: paul.ritchie@gmail.com
-  author_url: http://www.cornerpirate.com
-  date: !binary |-
-    MjAwOS0wMy0wNyAxMDo1MTozOSArMDAwMA==
-  date_gmt: !binary |-
-    MjAwOS0wMy0wNyAxMDo1MTozOSArMDAwMA==
-  content: Alc.
-- id: 307
-  author: JoeJag
-  author_email: joe@joejag.com
-  author_url: https://www.joejag.com
-  date: !binary |-
-    MjAwOS0wMy0wNyAxNjo1MjoxNCArMDAwMA==
-  date_gmt: !binary |-
-    MjAwOS0wMy0wNyAxNjo1MjoxNCArMDAwMA==
-  content: Says the man on the pub crawl ;)
-- id: 308
-  author: Paul Ritchie
-  author_email: paul.ritchie@gmail.com
-  author_url: http://www.cornerpirate.com
-  date: !binary |-
-    MjAwOS0wMy0xMCAxOToxMDo0NyArMDAwMA==
-  date_gmt: !binary |-
-    MjAwOS0wMy0xMCAxOToxMDo0NyArMDAwMA==
-  content: Do not judge me. I am beautiful in every single way.
+  - id: 306
+    author: Paul Ritchie
+    author_email: paul.ritchie@gmail.com
+    author_url: http://www.cornerpirate.com
+    date: !binary |-
+      MjAwOS0wMy0wNyAxMDo1MTozOSArMDAwMA==
+    date_gmt: !binary |-
+      MjAwOS0wMy0wNyAxMDo1MTozOSArMDAwMA==
+    content: Alc.
+  - id: 307
+    author: JoeJag
+    author_email: joe@joejag.com
+    author_url: https://www.joejag.com
+    date: !binary |-
+      MjAwOS0wMy0wNyAxNjo1MjoxNCArMDAwMA==
+    date_gmt: !binary |-
+      MjAwOS0wMy0wNyAxNjo1MjoxNCArMDAwMA==
+    content: Says the man on the pub crawl ;)
+  - id: 308
+    author: Paul Ritchie
+    author_email: paul.ritchie@gmail.com
+    author_url: http://www.cornerpirate.com
+    date: !binary |-
+      MjAwOS0wMy0xMCAxOToxMDo0NyArMDAwMA==
+    date_gmt: !binary |-
+      MjAwOS0wMy0xMCAxOToxMDo0NyArMDAwMA==
+    content: Do not judge me. I am beautiful in every single way.
 ---
+
 <style type="text/css">
 /* Malt colours */
 .islay {color: #5ABBB9} .lowland {color: #859567} .campbletown {color: #CF4040} .island {color: #5487B1} .speyside {color: #AF609E} .highland {color: #FFA200}

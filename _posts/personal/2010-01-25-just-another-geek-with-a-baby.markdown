@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 status: publish
 published: true
 title: Just another geek with a baby
@@ -91,6 +92,7 @@ comments:
 
     But yes, very practical advice for new parents like us.'
 ---
+
 <p>Last year after watching children run around laughing, Alison and I decided it's time to have our own kids.  A few months later we were checked in to get our first baby scan.</p>
 <p><img src="{{ site.url }}/images/2010/nine_weeks.jpg" width="490" height="370" /></p>
 <p>At this point the baby is the the same size as an <a href="http://www.in-gender.com/cs/forums/t/94345.aspx">Apple pip</a> or a <a href="http://www.hisboyscanswim.com/605/tarzans-ultimate-guide-to-baby-sizes-week-by-week-for-soon-to-be-fathers">Marble</a>.</p>

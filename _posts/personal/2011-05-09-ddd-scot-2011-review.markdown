@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 status: publish
 published: true
 title: DDD Scot 2011 Review
@@ -22,6 +23,7 @@ categories:
 tags: []
 comments: []
 ---
+
 <p>Last Saturday I attended the Developer Developer Developer Scotland 2011 conference in Glasgow.</p>
 <p>The event itself was exceptionally well run, timing was like clockwork and you didn't see anyone running around trying to find the right video adapter for their laptop.  It's incredible that such a well run event can also be free.  The only minor problem was the lack of air conditioning, which meant enduring a tropical climate for popular sessions.</p>
 <p>Personally I haven't had to code for .NET for anything serious since 2007, so I'm not overly keen on attending sessions on ASP.NET or about the latest library being reproduced for c# programmers.  This has proved tricky at previous DDD conferences I've attended where you have no choice but to attend a .NET based session.  Thankfully this conference proved to accommodate with sessions where the programming language wasn't important.</p>

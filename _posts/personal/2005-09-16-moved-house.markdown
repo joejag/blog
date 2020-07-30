@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 status: publish
 published: true
 title: Moved house!
@@ -16,30 +17,30 @@ date: !binary |-
   MjAwNS0wOS0xNiAwMjozNzo1NyArMDEwMA==
 date_gmt: !binary |-
   MjAwNS0wOS0xNiAwMjozNzo1NyArMDEwMA==
-categories:
-- life
+
 tags: []
 comments:
-- id: 115
-  author: paul ritchie
-  author_email: blah@gah.com
-  author_url: http://www.paulritchie.tk
-  date: !binary |-
-    MjAwNS0xMC0yMCAwNzowMDowNSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMC0yMCAxNDowMDowNSArMDEwMA==
-  content: why no love ?
-- id: 116
-  author: JoeJag
-  author_email: joe@joejag.com
-  author_url: http://
-  date: !binary |-
-    MjAwNS0xMS0yMSAwOToyMjoxNiArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNS0xMS0yMSAxNjoyMjoxNiArMDAwMA==
-  content: I'm a lazy bastard, I'll update it soon.  The comment spam I'm receiving
-    put me off doing anything with this blog
+  - id: 115
+    author: paul ritchie
+    author_email: blah@gah.com
+    author_url: http://www.paulritchie.tk
+    date: !binary |-
+      MjAwNS0xMC0yMCAwNzowMDowNSArMDEwMA==
+    date_gmt: !binary |-
+      MjAwNS0xMC0yMCAxNDowMDowNSArMDEwMA==
+    content: why no love ?
+  - id: 116
+    author: JoeJag
+    author_email: joe@joejag.com
+    author_url: http://
+    date: !binary |-
+      MjAwNS0xMS0yMSAwOToyMjoxNiArMDAwMA==
+    date_gmt: !binary |-
+      MjAwNS0xMS0yMSAxNjoyMjoxNiArMDAwMA==
+    content: I'm a lazy bastard, I'll update it soon.  The comment spam I'm receiving
+      put me off doing anything with this blog
 ---
+
 <p>Well this has been a delayed post....</p>
 <p>I finished my Masters project last week in KitchenFitting which turned out alright in the end.  Paul & Joe gave me some accomodation (and some sweet broadband access) for the last few days of the project which was good as I wasn't getting much sleep near the end.  I reckon I'll get about 15-16/20 for the project as the code is fairly good and the report was standard.  That should bumb me down to a 2:1 for my Masters which I will be happy with (no one cares what Masters distinction you get).</p>
 <p>But why would I need to stay at someone elses to finish my project you ask?  Well that's because since the 1st September I have moved to Glasgow!  I moved into a far nicer flat now with my girlfriend just off Byres Road (student haven) in the West End of Glasgow.  I'll have some photos up when I bother to buy a bluetooth dongle for my phone.</p>

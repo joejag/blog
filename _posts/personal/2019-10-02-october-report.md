@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 title: October 2019 Health Report
 ---
 
@@ -15,13 +16,13 @@ Weight at start: 105kg
 
 I started five habits that I'm trying to keep up:
 
-|Name|Kept to it?|
-| -- | --------- |
-|Aim to lose 5kg every six weeks| Yes, 5kg lost |
-|Go for a run at least two times a week| 6 weeks out of 6 |
-|Use calorie counting to keep my eating habits in check| 2 weeks out of 6 |
-|Stop using lifts| 6 weeks out of 6 |
-|Have at most one night a week with alcohol consumption| 5 weeks out of 6 |
+| Name                                                   | Kept to it?      |
+| ------------------------------------------------------ | ---------------- |
+| Aim to lose 5kg every six weeks                        | Yes, 5kg lost    |
+| Go for a run at least two times a week                 | 6 weeks out of 6 |
+| Use calorie counting to keep my eating habits in check | 2 weeks out of 6 |
+| Stop using lifts                                       | 6 weeks out of 6 |
+| Have at most one night a week with alcohol consumption | 5 weeks out of 6 |
 
 I purchased a [FitBit](https://www.amazon.co.uk/dp/B07G18N2YY/ref=pe_3187911_185740111_TE_item) which has motivated me to walk more and take more care of my sleeping pattern.
 
@@ -33,13 +34,13 @@ Calorie counting I find easy to stop doing, but I notice each time I do I start 
 
 ### Good things in this period
 
-* Organised [CodeCraftConf](https://conf.codecraftuk.org/) for the fifth year in a row
-* Ran a retrospective for the Architecture Fringe
-* Ran (literally) the Glasgow 10K with a time of [64 minutes](https://www.greatscottishrun.com/results/?r=643&bib=15719)
-* Did a talk on workplace design for the Heart of Agile meetup
-* Attended "bikablo basic" training to learn to facilitate via drawing
-* Recorded a [podcast with Jane Wilson](https://www.spreaker.com/user/codecraft/codecraftcast-ux) on UX
-* Saw [England vs Australia](https://www.bbc.co.uk/sport/cricket/scorecard/ECKO44041) for the [Ashes in Manchester](https://www.bbc.co.uk/sport/cricket/49627514) (Australia won though)
+- Organised [CodeCraftConf](https://conf.codecraftuk.org/) for the fifth year in a row
+- Ran a retrospective for the Architecture Fringe
+- Ran (literally) the Glasgow 10K with a time of [64 minutes](https://www.greatscottishrun.com/results/?r=643&bib=15719)
+- Did a talk on workplace design for the Heart of Agile meetup
+- Attended "bikablo basic" training to learn to facilitate via drawing
+- Recorded a [podcast with Jane Wilson](https://www.spreaker.com/user/codecraft/codecraftcast-ux) on UX
+- Saw [England vs Australia](https://www.bbc.co.uk/sport/cricket/scorecard/ECKO44041) for the [Ashes in Manchester](https://www.bbc.co.uk/sport/cricket/49627514) (Australia won though)
 
 ### Best Tweets
 
@@ -49,7 +50,7 @@ Calorie counting I find easy to stop doing, but I notice each time I do I start 
 
 ### Bad things in this period
 
-* I got a cold which took me off work for a week. I decided to eat my way out of the cold, which left me a kilo up by the end of the week. Reduced calorie intake and being ill isn't something I can do.
-* I tried to start using a toilet three floors above where I work to get extra exercise which started well. After a week, I was getting knee pains from going up and down the stairs multiple times a day.
+- I got a cold which took me off work for a week. I decided to eat my way out of the cold, which left me a kilo up by the end of the week. Reduced calorie intake and being ill isn't something I can do.
+- I tried to start using a toilet three floors above where I work to get extra exercise which started well. After a week, I was getting knee pains from going up and down the stairs multiple times a day.
 
 See you again around the 11th November.

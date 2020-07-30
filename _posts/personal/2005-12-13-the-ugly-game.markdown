@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 status: publish
 published: true
 title: The Ugly Game
@@ -59,6 +60,7 @@ comments:
     There''s a great one of Rooney and Ronaldo somewhere which I''ll post here when
     I remember where it is!'
 ---
+
 <p>Righty,</p>
 <p>So I've changed my mind again and have decided that making something in Java would be more beneficial then spending hours (3 days, 12 hours so far) playing WoW.  So I'm resurrecting my previous idea of making a website that allows you to rate how unattractive English Premier League footballers are.</p>
 <p>I've bought a domain for it called: <a href="http://www.theuglygame.com">www.theuglygame.com</a> and put up a small proof of concept for the moment which is tracking ratings in the background.  The scale at the moment will go from Beckham to Beardsley as they seem to be the best yardsticks to use for a scale.</p>

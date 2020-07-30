@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 status: publish
 published: true
 title: New Years Resolutions
@@ -16,41 +17,41 @@ date: !binary |-
   MjAwNy0wMS0wMyAyMTowNzozNCArMDAwMA==
 date_gmt: !binary |-
   MjAwNy0wMS0wMyAyMTowNzozNCArMDAwMA==
-categories:
-- life
+
 tags: []
 comments:
-- id: 274
-  author: Paul Ritchie
-  author_email: ritchie_paul@hotmail.com
-  author_url: http://www.otherendofthespectrum.com
-  date: !binary |-
-    MjAwNy0wMS0wNCAxODozNzoyMiArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNy0wMS0wNCAxNzozNzoyMiArMDAwMA==
-  content: ! 'Nice work on destroying a band. This year I aim to:
+  - id: 274
+    author: Paul Ritchie
+    author_email: ritchie_paul@hotmail.com
+    author_url: http://www.otherendofthespectrum.com
+    date: !binary |-
+      MjAwNy0wMS0wNCAxODozNzoyMiArMDAwMA==
+    date_gmt: !binary |-
+      MjAwNy0wMS0wNCAxNzozNzoyMiArMDAwMA==
+    content: ! 'Nice work on destroying a band. This year I aim to:
 
 
-    break someones dream (also)
+      break someones dream (also)
 
-    See season 2 of 15 stories high.
+      See season 2 of 15 stories high.
 
 
-    I keep my dreams simple but yet I often remain unfulfilled and alienated.'
-- id: 275
-  author: JoeVOD
-  author_email: jleythorne@gmail.com
-  author_url: http://ccgi.macross1.plus.com/joe/wordpress/
-  date: !binary |-
-    MjAwNy0wMS0wNCAyMDowNDo1NCArMDAwMA==
-  date_gmt: !binary |-
-    MjAwNy0wMS0wNCAxOTowNDo1NCArMDAwMA==
-  content: Mine was was quite simple.  It was quite simply 'have a better year than
-    2006', which by all accounts was an absolute disaster for me.  It should be noted
-    that it has been toned down from the one I made when pissed on new years - aparently
-    I was shouting 'DEATH OR GLORY' a fair bit, shortly before threatening to throw
-    someone out a window.
+      I keep my dreams simple but yet I often remain unfulfilled and alienated.'
+  - id: 275
+    author: JoeVOD
+    author_email: jleythorne@gmail.com
+    author_url: http://ccgi.macross1.plus.com/joe/wordpress/
+    date: !binary |-
+      MjAwNy0wMS0wNCAyMDowNDo1NCArMDAwMA==
+    date_gmt: !binary |-
+      MjAwNy0wMS0wNCAxOTowNDo1NCArMDAwMA==
+    content: Mine was was quite simple.  It was quite simply 'have a better year than
+      2006', which by all accounts was an absolute disaster for me.  It should be noted
+      that it has been toned down from the one I made when pissed on new years - aparently
+      I was shouting 'DEATH OR GLORY' a fair bit, shortly before threatening to throw
+      someone out a window.
 ---
+
 <p>Well welcome to 2007 everybody, tis the year of Vista.</p>
 <p>Today was my first day back at work and Kevin was telling me about how he's made 10 resolutions that he's telling people about so he feels obliged to keep them.  So now with the year fresh I have decided to make my own, and also publish the 10 resolutions I had in my mind to achieve over the last year.</p>
 <p><b>2007 Resolutions</b></p>

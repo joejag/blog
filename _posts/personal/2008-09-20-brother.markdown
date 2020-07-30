@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 status: publish
 published: true
 title: Brother
@@ -88,6 +89,7 @@ comments:
     MjAwOC0xMC0wNyAwMjoxNzozMyArMDEwMA==
   content: Nice, yeah you should make more and post them up.
 ---
+
 <p><!-- raw html --><br />
 I've been playing the guitar for a while now.  This usually involves you liking a song and then googling the guitar tab so you can play it.  One (dark) day my Internet connection was down so I thought I'd play random notes.  After a while the notes formed a song.<br />
 <br /><br />

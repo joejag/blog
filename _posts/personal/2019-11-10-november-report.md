@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 title: November 2019 Health Report
 ---
 
@@ -13,13 +14,13 @@ Weight at start: 105kg (100kg six weeks ago)
 
 ### Habits report
 
-|Name|Kept to it?|
-| -- | --------- |
-|Aim to lose 5kg every six weeks| No, 4kg lost |
-|Go for a run at least two times a week| 4 weeks out of 6 |
-|Use calorie counting to keep my eating habits in check| 0 weeks out of 6 |
-|Stop using lifts| 6 weeks out of 6 |
-|Have at most one night a week with alcohol consumption| 4 weeks out of 6 |
+| Name                                                   | Kept to it?      |
+| ------------------------------------------------------ | ---------------- |
+| Aim to lose 5kg every six weeks                        | No, 4kg lost     |
+| Go for a run at least two times a week                 | 4 weeks out of 6 |
+| Use calorie counting to keep my eating habits in check | 0 weeks out of 6 |
+| Stop using lifts                                       | 6 weeks out of 6 |
+| Have at most one night a week with alcohol consumption | 4 weeks out of 6 |
 
 ### Next six weeks
 
@@ -31,9 +32,9 @@ I'm going to add a habit to use the Oculus for aerobic exercising at least four 
 
 ### Good things in this period
 
-* 5k time down to 30m:21s from 33m:34s.
-* I gave a talk on creating decent working environments at [Lean Agile Scotland](https://2019.leanagile.scot/programme/good-bad-open-plan-creating-environments-collaborative-knowledge-work). At least one person has got in contact telling me how they've recreated their workspace after this talk. Which is lovely to hear.
-* I went to see Randall Munroe give a talk about his new book in Edinburgh:
+- 5k time down to 30m:21s from 33m:34s.
+- I gave a talk on creating decent working environments at [Lean Agile Scotland](https://2019.leanagile.scot/programme/good-bad-open-plan-creating-environments-collaborative-knowledge-work). At least one person has got in contact telling me how they've recreated their workspace after this talk. Which is lovely to hear.
+- I went to see Randall Munroe give a talk about his new book in Edinburgh:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fun evening with Randall Munroe talking about his new book on incredible and ridiculous ways to solve ordinary problems. He highlighted this comic stip which encourages us to see people who admit they don&#39;t know things as a gift<a href="https://t.co/nbpfo7w7do">https://t.co/nbpfo7w7do</a> <a href="https://t.co/TZihzGad5y">pic.twitter.com/TZihzGad5y</a></p>&mdash; Joe Wright (@joe_jag) <a href="https://twitter.com/joe_jag/status/1182400006340464640?ref_src=twsrc%5Etfw">October 10, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -46,7 +47,6 @@ Which prompted me to do the same thing with my kids:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Spectacular views from a run up Arthur&#39;s Seat before day two of <a href="https://twitter.com/hashtag/lascot?src=hash&amp;ref_src=twsrc%5Etfw">#lascot</a> <a href="https://t.co/QhTDYwrUd6">pic.twitter.com/QhTDYwrUd6</a></p>&mdash; Joe Wright (@joe_jag) <a href="https://twitter.com/joe_jag/status/1182200718855458817?ref_src=twsrc%5Etfw">October 10, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">New developer joined the team today. The first since we started using continuous deployment (master auto-deploys to production immediately). It&#39;s worth reassuring new folks about all the safety checks that are in place to allow this pattern to work</p>&mdash; Joe Wright (@joe_jag) <a href="https://twitter.com/joe_jag/status/1192493108853977088?ref_src=twsrc%5Etfw">November 7, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 ### Bad things in this period
 

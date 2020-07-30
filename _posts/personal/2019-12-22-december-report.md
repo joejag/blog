@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 title: December 2019 Health Report
 ---
 
@@ -9,20 +10,20 @@ Since then, Steve Tooke has become my accountability buddy as he has [the same d
 
 ### Goal update
 
-Weight at start: 105kg / 47.5% fat 
+Weight at start: 105kg / 47.5% fat
 <br/>Six weeks ago: 96kg / 35.1% fat
-<br/>Current weight: __92kg / 34.0% fat__
+<br/>Current weight: **92kg / 34.0% fat**
 <br/>Goal weight: 74kg [(according to BMI)](https://www.nhs.uk/live-well/healthy-weight/bmi-calculator/) or 20% [body fat](https://en.wikipedia.org/wiki/Body_fat_percentage#Typical_body_fat_amounts).
 
 ### Habits report
 
-|Name|Kept to it?|
-| -- | --------- |
-|Aim to lose 5kg every six weeks | No, 4kg lost |
-|Go for a run at least two times a week | 4 weeks out of 6 |
-|Use VR workout on days not running | 4 weeks out of 6 |
-|Stop using lifts | 6 weeks out of 6 |
-|Have at most one night a week with alcohol consumption | 5 weeks out of 6 |
+| Name                                                   | Kept to it?      |
+| ------------------------------------------------------ | ---------------- |
+| Aim to lose 5kg every six weeks                        | No, 4kg lost     |
+| Go for a run at least two times a week                 | 4 weeks out of 6 |
+| Use VR workout on days not running                     | 4 weeks out of 6 |
+| Stop using lifts                                       | 6 weeks out of 6 |
+| Have at most one night a week with alcohol consumption | 5 weeks out of 6 |
 
 ### Thoughts on the last six weeks
 
@@ -42,10 +43,10 @@ Zero new year's resolutions. I am just going to keep going.
 
 ### Good things in this period
 
-* 5k time down to 28:18s from 30m:21s.
-* I discovered [R-Cade](https://www.rcadeglasgow.com/) on the Saltmarket in Glasgow which has a bunch of retro consoles you can play while enjoying some Japense noodles, Ramune Soda and Gyoza.
-* I signed a contract to stay at Register of Scotland as a Dev Coach for another six months.
-* I attended a remote-only coding day with the Times Eduction Supplement group teaching us how to get off to a good start:
+- 5k time down to 28:18s from 30m:21s.
+- I discovered [R-Cade](https://www.rcadeglasgow.com/) on the Saltmarket in Glasgow which has a bunch of retro consoles you can play while enjoying some Japense noodles, Ramune Soda and Gyoza.
+- I signed a contract to stay at Register of Scotland as a Dev Coach for another six months.
+- I attended a remote-only coding day with the Times Eduction Supplement group teaching us how to get off to a good start:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This was great fun. The organisors did a wonderful job of making things run smoothly. <a href="https://t.co/cY0niQYD3m">https://t.co/cY0niQYD3m</a></p>&mdash; Joe Wright (@joe_jag) <a href="https://twitter.com/joe_jag/status/1195733311148175366?ref_src=twsrc%5Etfw">November 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

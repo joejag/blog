@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 status: publish
 published: true
 title: ! 'Tools you need to use #1: Google Reader'
@@ -16,47 +17,47 @@ date: !binary |-
   MjAwOS0wMi0xNyAyMzowNTo0OCArMDAwMA==
 date_gmt: !binary |-
   MjAwOS0wMi0xNyAyMzowNTo0OCArMDAwMA==
-categories:
-- geek
+
 tags: []
 comments:
-- id: 300
-  author: Steven Morrison
-  author_email: sgmorrison@gmail.com
-  author_url: ''
-  date: !binary |-
-    MjAwOS0wMi0xOCAxMzo0NDo0NSArMDAwMA==
-  date_gmt: !binary |-
-    MjAwOS0wMi0xOCAxMzo0NDo0NSArMDAwMA==
-  content: I was probably using Netvibes, which I still use. I;ll have to take a look
-    at Google Reader.
-- id: 301
-  author: JoeJag
-  author_email: joe@joejag.com
-  author_url: https://www.joejag.com
-  date: !binary |-
-    MjAwOS0wMi0xOSAyMzoyODoxMSArMDAwMA==
-  date_gmt: !binary |-
-    MjAwOS0wMi0xOSAyMzoyODoxMSArMDAwMA==
-  content: ! 'A few folk at work were telling me about NetVibes, it looks good how
-    you can integrate your mail as well.  However, it isn''t exactly single purpose
-    like Google Reader.  There''s a fair amount of screenspace going to decorations
-    too.
+  - id: 300
+    author: Steven Morrison
+    author_email: sgmorrison@gmail.com
+    author_url: ''
+    date: !binary |-
+      MjAwOS0wMi0xOCAxMzo0NDo0NSArMDAwMA==
+    date_gmt: !binary |-
+      MjAwOS0wMi0xOCAxMzo0NDo0NSArMDAwMA==
+    content: I was probably using Netvibes, which I still use. I;ll have to take a look
+      at Google Reader.
+  - id: 301
+    author: JoeJag
+    author_email: joe@joejag.com
+    author_url: https://www.joejag.com
+    date: !binary |-
+      MjAwOS0wMi0xOSAyMzoyODoxMSArMDAwMA==
+    date_gmt: !binary |-
+      MjAwOS0wMi0xOSAyMzoyODoxMSArMDAwMA==
+    content: ! "A few folk at work were telling me about NetVibes, it looks good how
+      you can integrate your mail as well.  However, it isn't exactly single purpose
+      like Google Reader.  There's a fair amount of screenspace going to decorations
+      too.
 
 
-    Spend a week with Google Reader.  It''s pretty much the same interface as GMail,
-    but it''s for news.'
-- id: 302
-  author: ! 'JoeJag :: Just Another Geek :: Tools you need to use #3: Twitter'
-  author_email: ''
-  author_url: https://www.joejag.com/wp/?p=803
-  date: !binary |-
-    MjAwOS0wNi0wNSAyMjoyMDo1NyArMDEwMA==
-  date_gmt: !binary |-
-    MjAwOS0wNi0wNSAyMjoyMDo1NyArMDEwMA==
-  content: ! '[...] on from my last 2 tools you need to use: Google Reader and Delicious.
-    There is a massively hyped tool which I can heartedly [...]'
+      Spend a week with Google Reader.  It's pretty much the same interface as GMail,
+      but it's for news."
+  - id: 302
+    author: ! 'JoeJag :: Just Another Geek :: Tools you need to use #3: Twitter'
+    author_email: ''
+    author_url: https://www.joejag.com/wp/?p=803
+    date: !binary |-
+      MjAwOS0wNi0wNSAyMjoyMDo1NyArMDEwMA==
+    date_gmt: !binary |-
+      MjAwOS0wNi0wNSAyMjoyMDo1NyArMDEwMA==
+    content: ! '[...] on from my last 2 tools you need to use: Google Reader and Delicious.
+      There is a massively hyped tool which I can heartedly [...]'
 ---
+
 <p>Hello beloved readers,</p>
 <p>I happen to work in an environment <a href="http://www.jpmorganglasgow.com/">teeming with geekdom</a>.  This means whenever any tool for any language comes out, I then have to hear about it from a convert the same day.  There's 2 online tools I think everyone should use to keep their online lives sane.</p>
 <p>The first of these, is <a href="http://www.google.com/reader">Google Reader</a>.</p>

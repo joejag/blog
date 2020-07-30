@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 status: publish
 published: true
 title: ! 'Tools you need to use #3: Twitter'
@@ -55,6 +56,7 @@ comments:
     MjAwOS0wOS0xMCAxOToyNjoyMSArMDEwMA==
   content: ! '[...] Twitter [...]'
 ---
+
 <p>Following on from my last 2 tools you need to use: <a href="https://www.joejag.com/wp/?p=518">Google Reader</a> and <a href="https://www.joejag.com/wp/?p=558">Delicious</a>.  There is a massively hyped tool which I can heartedly recommend.</p>
 <p><img src="{{ site.url }}/images/2009/twitter.jpg" / height="170" width="475"></p>
 <p>Twitter is an opt-in version of IRC.  Think about that for a second.  Now imagine the IRC chat room has people you respect (for me <a href="http://twitter.com/charltonbrooker">Charlie Brooker</a>, <a href="http://twitter.com/stephenFRY">Stephen Fry</a> and <a href="http://twitter.com/martinfowler">Martin Fowler</a>), and you can hear their thoughts.  If there's anything we have learnt about the Internet over the last 2 years it's that stalking is at an all time high.  It's also becoming mainstream.</p>

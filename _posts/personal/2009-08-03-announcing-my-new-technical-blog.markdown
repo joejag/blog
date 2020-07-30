@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 status: publish
 published: true
 title: Announcing my new technical blog
@@ -33,6 +34,7 @@ comments:
   content: ! 'There were no comments here so I thought I''d draw your attention to:
     http://www.connosr.com/'
 ---
+
 <p>I've been running this blog for quite a while now and I know that the readers are either people who known me personally or professionally.  I've often been tempted to post very technical posts on this site but I've resisted as I know it wouldn't fit in well.</p>
 <p>To get around this, and encourage me to blog further, I've created a new site <a href="http://code.joejag.com">Joejag Tech</a> which will allow me to talk about unixy, ruby goodness without confusing my parents.</p>
 <p>I'll mainly be posting short articles on how to solve specific problems.  Occasionally I might go over a code kata in detail as well.</p>

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 status: publish
 published: true
 title: Make your own Mulled Cider (with photos)
@@ -21,6 +22,7 @@ categories:
 tags: []
 comments: []
 ---
+
 <p>Around this time of year it's great to have a festive tipple such as Bucks Fizz, Mulled Wine or Mulled Cider.  I've started making my own Mulled Cider recently as it's made from fairly common spices.</p>
 <h3>Ingredients</h3></p>
 <p><img width="480" height="360" src="{{ site.url }}/images/2011/1-ingredients.jpg"/></p>

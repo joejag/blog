@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 status: publish
 published: true
 title: Chicken pox at 29
@@ -16,59 +17,59 @@ date: !binary |-
   MjAxMi0wMy0yNSAwMjoxNDo1OCArMDEwMA==
 date_gmt: !binary |-
   MjAxMi0wMy0yNSAwMjoxNDo1OCArMDEwMA==
-categories:
-- life
+
 tags: []
 comments:
-- id: 346
-  author: Liam Joseph
-  author_email: liamhalligan@hotmail.co.uk
-  author_url: ''
-  date: !binary |-
-    MjAxMi0wOS0xOSAxNDoxMjoyMyArMDEwMA==
-  date_gmt: !binary |-
-    MjAxMi0wOS0xOSAxNDoxMjoyMyArMDEwMA==
-  content: Haha! This is brilliant! Glad you made it through Cuz! ;-)
-- id: 347
-  author: Stephan
-  author_email: stephan@fishycam.com
-  author_url: ''
-  date: !binary |-
-    MjAxMi0xMC0xOSAxNDowMzozNCArMDEwMA==
-  date_gmt: !binary |-
-    MjAxMi0xMC0xOSAxNDowMzozNCArMDEwMA==
-  content: Crap! Glad you're ok now!
-- id: 348
-  author: Chris Smith
-  author_email: chris@pointyhat.org.uk
-  author_url: ''
-  date: !binary |-
-    MjAxMy0wMS0wMyAwMDo0NTo1OSArMDAwMA==
-  date_gmt: !binary |-
-    MjAxMy0wMS0wMyAwMDo0NTo1OSArMDAwMA==
-  content: ! 'Thanks for posting this.
+  - id: 346
+    author: Liam Joseph
+    author_email: liamhalligan@hotmail.co.uk
+    author_url: ''
+    date: !binary |-
+      MjAxMi0wOS0xOSAxNDoxMjoyMyArMDEwMA==
+    date_gmt: !binary |-
+      MjAxMi0wOS0xOSAxNDoxMjoyMyArMDEwMA==
+    content: Haha! This is brilliant! Glad you made it through Cuz! ;-)
+  - id: 347
+    author: Stephan
+    author_email: stephan@fishycam.com
+    author_url: ''
+    date: !binary |-
+      MjAxMi0xMC0xOSAxNDowMzozNCArMDEwMA==
+    date_gmt: !binary |-
+      MjAxMi0xMC0xOSAxNDowMzozNCArMDEwMA==
+    content: Crap! Glad you're ok now!
+  - id: 348
+    author: Chris Smith
+    author_email: chris@pointyhat.org.uk
+    author_url: ''
+    date: !binary |-
+      MjAxMy0wMS0wMyAwMDo0NTo1OSArMDAwMA==
+    date_gmt: !binary |-
+      MjAxMy0wMS0wMyAwMDo0NTo1OSArMDAwMA==
+    content: ! "Thanks for posting this.
 
 
-    Am 33 from London - got the same damn thing.
+      Am 33 from London - got the same damn thing.
 
 
-    On day 4 now - my god this is painful. On acyclovir, antihistamines, paracetamol
-    and ibuprofen. Nothing works.
+      On day 4 now - my god this is painful. On acyclovir, antihistamines, paracetamol
+      and ibuprofen. Nothing works.
 
 
-    Any tips on how to get some sleep. I just can''t sleep :('
-- id: 349
-  author: John
-  author_email: jgartlan@gmail.com
-  author_url: ''
-  date: !binary |-
-    MjAxNC0wNi0wNyAxMjozNToyNyArMDEwMA==
-  date_gmt: !binary |-
-    MjAxNC0wNi0wNyAxMjozNToyNyArMDEwMA==
-  content: On day 7 since the fist spots appeared on my scalp - this has been my week
-    from hell - only the ones on my face have so far scabbed, most of the rest are
-    still blistered. This is agonisingly slow !!!
+      Any tips on how to get some sleep. I just can't sleep :("
+  - id: 349
+    author: John
+    author_email: jgartlan@gmail.com
+    author_url: ''
+    date: !binary |-
+      MjAxNC0wNi0wNyAxMjozNToyNyArMDEwMA==
+    date_gmt: !binary |-
+      MjAxNC0wNi0wNyAxMjozNToyNyArMDEwMA==
+    content: On day 7 since the fist spots appeared on my scalp - this has been my week
+      from hell - only the ones on my face have so far scabbed, most of the rest are
+      still blistered. This is agonisingly slow !!!
 ---
+
 <p>Eight days ago I felt very ill.  I had a headache, a fever and no desire for food.  I knew what was coming...  three weeks before that my son had contracted chicken pox while at nursery, for him it was pretty mild as it is in most children, sadly for adults it's severe.</p>
 <p>The progress of chicken pox is small spot, large spot, fluid filled blisters, scabbed, or in medical terms:<br />
 <img src="{{ site.url }}/images/2012/pox_stages.jpg" alt="" title="pox_stages" width="400" height="211" class="alignnone size-full wp-image-1374" /></p>

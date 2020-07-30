@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 status: publish
 published: true
 title: Scotland on Rails 2009
@@ -43,5 +44,6 @@ comments:
   content: I think I know quite a few people who are attending so I'm very excited
     about attending the conference.
 ---
+
 <p><img style="float: left; padding-right: 10px;" src="{{ site.url }}/images/2009/scotlandonrails2009.png" />I will be <a href="http://scotlandonrails.com/schedule/27-march/glasgow-green-map-as-a-community-project/">speaking</a> at <a href="http://scotlandonrails.com/">Scotland on Rails</a> in late March.  My talk with Kevin McDonagh will be about how to create a community based open source project with an active community.  I'd say go buy tickets but it's <a href="http://www.bash.org/?197845">sold out</a> already!</p>
 <p>After my talk is over I'll put it up online.  But for now I've put up <a href="https://www.joejag.com/wp/?page_id=91">a page about the project</a> for those interested in what I've been doing with 1.5 years of Thursday.</p>

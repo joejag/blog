@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 status: publish
 published: true
 title: Hello Agile
@@ -70,6 +71,7 @@ comments:
     MjAwNi0wNy0wOSAxMDozNTowNiArMDEwMA==
   content: OOOOOOOOOOOOH, hark at thee, Sir Alan Sugar!
 ---
+
 <p>Yesterday was my last day working for the SQA, I had been working there since September last year.</p>
 <p>When I first joined I had just finished my Masters degree from Aberdeen so was noticably wet behind the ears to how programming in the real world worked (despite a few summers spent working for local companies).  The biggest difference by miles between Uni coding and real coding is the testing strategy.  Uni is mainly about getting it to work in ideal circumstances.  Real world coding is more about failing gracefully and testing every line of your code.</p>
 <p>Apart from the that, learning new libraries and frameworks provides a steep learning curve.  The main difference between working in teams at Uni and the real world is that teams at work are a lot more competent and have different skill sets.</p>

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 status: publish
 published: true
 title: UK's first Code Retreat this November
@@ -66,6 +67,7 @@ comments:
     two penneth when it comes to non-language-specific thinking? Or does it require
     Ruby experience?
 ---
+
 <p>I've been running <a href="http://code.joejag.com/2009/the-coding-dojo/">Coding Dojos</a> for the Tech community in Glasgow for a while now.  A Coding Dojo is a 2 hour coding session where programmers of varied skill levels come together to work on a common task.  The task is simple in scope and difficulty.  The goal is to learn, teach and improve with fellow software developers in a non-competitive setting.</p>
 <div style="width: 250px; float:left"><iframe name="countdown" id="mgframe" src="http://www.eventbrite.com/countdown-widget?eid=460087133" width="250" height="337" marginheight="0" marginwidth="0" scrolling="no"  frameborder="0" ></iframe><a href="http://www.eventbrite.com/r/ecount"><img src="http://www.eventbrite.com/s.gif" alt="Events" border="0"/></a></div></p>
 <p>I was approached by <a href="http://adrianmowat.blogspot.com/">Adrian Mowatt</a> and <a href="http://robertlally.com/">Rob Lally</a> from <a href="http://agilescotland.blogspot.com/">AgileScotland</a> about the prospect of getting involved with a whole day coding event in Glasgow.  I eagerly joined these two pioneers and we are happy to announce the first <b>Coding Retreat in the UK</b>.</p>

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 status: publish
 published: true
 title: Continuous Delivery talk at Scot Ruby Conference 2012
@@ -16,10 +17,10 @@ date: !binary |-
   MjAxMi0wNy0wMiAyMTo0NjowNiArMDEwMA==
 date_gmt: !binary |-
   MjAxMi0wNy0wMiAyMTo0NjowNiArMDEwMA==
-categories:
-- Uncategorized
+
 tags: []
 comments: []
 ---
+
 <p>I recently gave a talk at Scot Ruby Conf 2012 in Edinburgh on Continuous Delivery.  I'll link here when the video is up.</p>
 <p>The idea that inspired me most at the conference was the concept of using <a href="http://alistair.cockburn.us/Hexagonal+architecture">Hexagonal Architecture</a>.</p>

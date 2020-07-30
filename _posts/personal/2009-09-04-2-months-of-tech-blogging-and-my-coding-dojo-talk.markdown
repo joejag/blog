@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 status: publish
 published: true
 title: 2 Months of Tech Blogging, and my Coding Dojo talk
@@ -16,44 +17,44 @@ date: !binary |-
   MjAwOS0wOS0wNCAxMDo0NDo1MSArMDEwMA==
 date_gmt: !binary |-
   MjAwOS0wOS0wNCAxMDo0NDo1MSArMDEwMA==
-categories:
-- Uncategorized
+
 tags: []
 comments:
-- id: 322
-  author: Darren Tarbard
-  author_email: daz@tarbard.co.uk
-  author_url: http://www.tarbard.co.uk
-  date: !binary |-
-    MjAwOS0wOS0wNCAyMDoxNToxNSArMDEwMA==
-  date_gmt: !binary |-
-    MjAwOS0wOS0wNCAyMDoxNToxNSArMDEwMA==
-  content: Great talk, your dojos sound like fun.
-- id: 323
-  author: Paul Ritchie
-  author_email: paul.ritchie@gmail.com
-  author_url: http://cornerpirate.com
-  date: !binary |-
-    MjAwOS0wOS0wOCAyMzozMToxMCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwOS0wOS0wOCAyMzozMToxMCArMDEwMA==
-  content: ! 'First. I haven''t watched it, though I know the content is perfect and
-    your delivery is great. I just know these things ok?
+  - id: 322
+    author: Darren Tarbard
+    author_email: daz@tarbard.co.uk
+    author_url: http://www.tarbard.co.uk
+    date: !binary |-
+      MjAwOS0wOS0wNCAyMDoxNToxNSArMDEwMA==
+    date_gmt: !binary |-
+      MjAwOS0wOS0wNCAyMDoxNToxNSArMDEwMA==
+    content: Great talk, your dojos sound like fun.
+  - id: 323
+    author: Paul Ritchie
+    author_email: paul.ritchie@gmail.com
+    author_url: http://cornerpirate.com
+    date: !binary |-
+      MjAwOS0wOS0wOCAyMzozMToxMCArMDEwMA==
+    date_gmt: !binary |-
+      MjAwOS0wOS0wOCAyMzozMToxMCArMDEwMA==
+    content: ! "First. I haven't watched it, though I know the content is perfect and
+      your delivery is great. I just know these things ok?
 
 
-    Second. You look so much like alun preece I want to ask you how to make a form
-    tag. Word.'
-- id: 324
-  author: Paul Ritchie
-  author_email: paul.ritchie@gmail.com
-  author_url: http://www.cornerpirate.com
-  date: !binary |-
-    MjAwOS0xMC0wNSAxNjo0NDoxOCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwOS0xMC0wNSAxNjo0NDoxOCArMDEwMA==
-  content: I just saw this again. I clicked "comments" to say that you looked like
-    Alun Preece. But I see I have already done that.
+      Second. You look so much like alun preece I want to ask you how to make a form
+      tag. Word."
+  - id: 324
+    author: Paul Ritchie
+    author_email: paul.ritchie@gmail.com
+    author_url: http://www.cornerpirate.com
+    date: !binary |-
+      MjAwOS0xMC0wNSAxNjo0NDoxOCArMDEwMA==
+    date_gmt: !binary |-
+      MjAwOS0xMC0wNSAxNjo0NDoxOCArMDEwMA==
+    content: I just saw this again. I clicked "comments" to say that you looked like
+      Alun Preece. But I see I have already done that.
 ---
+
 <p>My <a href="http://code.joejag.com">tech blog</a> is 2 months old today.  Interestingly, the biggest referrer to the site is Twitter, rather than Google.  I'm quite happy with the articles I've put up so far and Google is starting to index some terms on the site quite highly.</p>
 <h3>Tech Blog posts roundup</h3></p>
 <ul>

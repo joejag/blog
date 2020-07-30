@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 title: February 2020 Health Report
 ---
 
@@ -9,20 +10,20 @@ I've been trying out different habits, exercises, and eating patterns and postin
 
 ### Goal update
 
-Weight at start: 105kg / 47.5% fat 
+Weight at start: 105kg / 47.5% fat
 <br/>Six weeks ago: 92kg / 34.0% fat
-<br/>Current weight: __90kg / 32.0% fat__
+<br/>Current weight: **90kg / 32.0% fat**
 <br/>Goal weight: 74kg [(according to BMI)](https://www.nhs.uk/live-well/healthy-weight/bmi-calculator/) or 20% [body fat](https://en.wikipedia.org/wiki/Body_fat_percentage#Typical_body_fat_amounts).
 
 ### Habits report
 
-|Habit|Measure|Kept to it?|
-| --- | -- | --------- |
-|I am a healthier living person|Aim to lose 4kg every six weeks | No, 2kg gained, then 4kg lost) |
-|I am a runner|Go for a run at least two times a week | 4 weeks out of 6 |
-|I am a VR exercise enthusiast|Use VR workout at least three times a week | 5 weeks out of 6 |
-|I take the stairs|Stop using lifts | 6 weeks out of 6 |
-|I'm an occasional drinker|Have at most one night a week with alcohol consumption | 4 weeks out of 6 |
+| Habit                          | Measure                                                | Kept to it?                    |
+| ------------------------------ | ------------------------------------------------------ | ------------------------------ |
+| I am a healthier living person | Aim to lose 4kg every six weeks                        | No, 2kg gained, then 4kg lost) |
+| I am a runner                  | Go for a run at least two times a week                 | 4 weeks out of 6               |
+| I am a VR exercise enthusiast  | Use VR workout at least three times a week             | 5 weeks out of 6               |
+| I take the stairs              | Stop using lifts                                       | 6 weeks out of 6               |
+| I'm an occasional drinker      | Have at most one night a week with alcohol consumption | 4 weeks out of 6               |
 
 ### Thoughts on the last six weeks
 
@@ -40,16 +41,15 @@ I've been trying out a bunch of vegan meals as alternatives for weeknights. Jack
 
 ### Good things in this period
 
-* 5k time down to 27m:43s from 28m:18s.
-* I ran a session at [Global Diversity CFP day](https://www.globaldiversitycfpday.com/) in Glasgow with [Carole Rennie Logan](https://twitter.com/crgrieve) to help people be more prepared for submitting to tech conferences
-* I beat my Diet Coke habit by replacing it with tap water and cups of tea
+- 5k time down to 27m:43s from 28m:18s.
+- I ran a session at [Global Diversity CFP day](https://www.globaldiversitycfpday.com/) in Glasgow with [Carole Rennie Logan](https://twitter.com/crgrieve) to help people be more prepared for submitting to tech conferences
+- I beat my Diet Coke habit by replacing it with tap water and cups of tea
 
 ### Best Tweets
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">It’s around this time of year that I remember that there aren’t that many “bad” people. Just a load of folks who have poor strategies for getting their needs met</p>&mdash; Joe Wright (@joe_jag) <a href="https://twitter.com/joe_jag/status/1214097957416554496?ref_src=twsrc%5Etfw">January 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">As Scotland leaves the EU, against it&#39;s own wishes, I stand with others in the rain in protest <a href="https://twitter.com/hashtag/LeaveALightOnForScotland?src=hash&amp;ref_src=twsrc%5Etfw">#LeaveALightOnForScotland</a> <a href="https://t.co/maozPwJb89">pic.twitter.com/maozPwJb89</a></p>&mdash; Joe Wright (@joe_jag) <a href="https://twitter.com/joe_jag/status/1223372599599804420?ref_src=twsrc%5Etfw">January 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 ### Bad things in this period
 

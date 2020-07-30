@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 status: publish
 published: true
 title: Bye bye Benitez
@@ -16,11 +17,11 @@ date: !binary |-
   MjAxMC0wNi0wMyAyMDoyMTo1MiArMDEwMA==
 date_gmt: !binary |-
   MjAxMC0wNi0wMyAyMDoyMTo1MiArMDEwMA==
-categories:
-- Uncategorized
+
 tags: []
 comments: []
 ---
+
 <p>As a Liverpool fan I have shared the ups and downs of Liverpool FC with Rafeal Benitez at the helm.  We've had massive highs like the Champions League win (I still remember my celebration pose) and the FA Cup triumph.  I've always admired the Liverpool FC style of play and their crowd atmosphere.</p>
 <p>I've even been lucky enough to get down to Liverpool for a holiday and many LFC games.  It's a lot like Glasgow and I love how they've developed their dockyard post-empire.</p>
 <p>Benitez, like Houllier before him, spent a lot of time developing a paranoia against the board and the media.  He won many public battles with the club.  Though without new ownership coming he lost the war.</p>

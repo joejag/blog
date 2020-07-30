@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 status: publish
 published: true
 title: Devoxx 2008
@@ -43,6 +44,7 @@ comments:
     Well, people will somehow use good frameworks to leave issues in their applications
     at least!'
 ---
+
 <p>In a hectic December I managed to go along to Devoxx in Antwerp, Belgium.  Devoxx (Voxx is Latin for 'voice') used to be called Javapolis and is a Java and other JVM languages conference.  This was the first time I'd been to an industry conference and it is certainly something I intend to continue.</p>
 <p><img style="float: left; padding-right: 10px;" src="{{ site.url }}/images/2009/antwerpen-central-station.jpg" alt="" width="200" height="150" /></p>
 <p>On the way over to Antwerp from Glasgow I was amused by an old lady who when told she couldn't have pie and beans on the plane promptly asked for a stick of rock and a cheese sandwich instead.  I'm with her on the unhealthy plane meals revolution!  I later arrived at Antwerp train station which is probably the most impressive train station I've ever seen.  While still in UK mode I then hailed a taxi and tried to get into the passengers side for UK cars (which is the drivers seat in Europe).  After convincing the driver that I didn't want to steal his vehicle I then told him where I needed to go.  He struck me with a confused look, asked if I was sure, then pointed to my hotel straight across the road.  Kudos to him for not driving me around town then dropping me off at the same spot.</p>

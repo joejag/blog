@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 status: publish
 published: true
 title: Map of Life
@@ -107,6 +108,7 @@ comments:
     Cheers, I''d have to go steal photos from my parents house again of holidays.  I''ll
     do that next time I''m back.'
 ---
+
 <p>Hello dear readers,</p>
 <p>Often when meeting people I am asked how long I have lived in Glasgow and where else I have lived.  As I have lived at about 15 different addresses this is a rather difficult question to answer.  So behold the answer!</p>
 <p><a href="http://maps.google.co.uk/?q=https://www.joejag.com/mylife.kml?reload">The Google Map of Joe</a></p>

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 status: publish
 published: true
 title: ! 'Tools you need to use #2: Delicious'
@@ -16,21 +17,21 @@ date: !binary |-
   MjAwOS0wMi0yMiAxMzo0OTowNSArMDAwMA==
 date_gmt: !binary |-
   MjAwOS0wMi0yMiAxMzo0OTowNSArMDAwMA==
-categories:
-- geek
+
 tags: []
 comments:
-- id: 303
-  author: ! 'JoeJag :: Just Another Geek :: Tools you need to use #3: Twitter'
-  author_email: ''
-  author_url: https://www.joejag.com/wp/?p=803
-  date: !binary |-
-    MjAwOS0wNi0wNSAyMjoyNTo1MCArMDEwMA==
-  date_gmt: !binary |-
-    MjAwOS0wNi0wNSAyMjoyNTo1MCArMDEwMA==
-  content: ! '[...] on from my last 2 tools you need to use: Google Reader and Delicious.
-    There is a massively hyped tool which I can heartedly [...]'
+  - id: 303
+    author: ! 'JoeJag :: Just Another Geek :: Tools you need to use #3: Twitter'
+    author_email: ''
+    author_url: https://www.joejag.com/wp/?p=803
+    date: !binary |-
+      MjAwOS0wNi0wNSAyMjoyNTo1MCArMDEwMA==
+    date_gmt: !binary |-
+      MjAwOS0wNi0wNSAyMjoyNTo1MCArMDEwMA==
+    content: ! '[...] on from my last 2 tools you need to use: Google Reader and Delicious.
+      There is a massively hyped tool which I can heartedly [...]'
 ---
+
 <p>Hello again travellers,</p>
 <p>The second tool I'd like to recommend that everyone should use is <a href="http://delicious.com">Delicious</a>.</p>
 <p>Delicious is a free social bookmarking tool.  It allows you to store your bookmarks online, tag them and share them with your friends.  This is very useful for people who use different computers.  I now have the same bookmarks at work as I do at home on my laptop and desktop.  Or even if I was at your home, I could access the same bookmarks.</p>

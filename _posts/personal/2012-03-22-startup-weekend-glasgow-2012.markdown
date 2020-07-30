@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 status: publish
 published: true
 title: Startup Weekend, Glasgow 2012
@@ -16,8 +17,7 @@ date: !binary |-
   MjAxMi0wMy0yMiAyMDo0NjowOCArMDAwMA==
 date_gmt: !binary |-
   MjAxMi0wMy0yMiAyMDo0NjowOCArMDAwMA==
-categories:
-- geek
+
 - life
 tags: []
 comments:
@@ -34,6 +34,7 @@ comments:
     a Startup. Is that OK with you? \n\nI would be glad of any suggestions you might
     have for places, contacts etc that the visiting or newly-resident Geek might like.\n\nthanks\nnina"
 ---
+
 <p>For the first time the runaway success that has been the <a href="http://startupweekend.org/">Startup Weekend</a> movement is coming to <a href="http://glasgow.startupweekend.org/">Glasgow on 25-27th May</a>.  </p>
 <p>From the official site:</p>
 <div class="quote_box">

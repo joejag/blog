@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 status: publish
 published: true
 title: Job, Code, Life
@@ -49,6 +50,7 @@ comments:
     Not sure if I fancy being an estate agent, it''s weird seeing the flat now before
     we moved all our stuff in.  The tour is missing my computer den!'
 ---
+
 <p>Hello everyone!</p>
 <p>I've put up a <a href="{{ site.url }}/images/2005/flattour.3gp">video of my flat</a> that I made using my phone (low quality when moving) for anyone to look at if they fancy checking out my digs.  The flat is on the 4th floor so its a fair climb but we get good views.</p>
 <p>This Friday I will be travelling with my family up to Aberdeen for graduation.  I got a 2:1 mark for my project so I missed out on a First despite scoring 75% 1st marks in all my exams and assessments.  This is a shame as Amazon have opened a new centre here and are <a href="http://careers.amazondc.com/index.html">interviewing</a> graduates with Firsts.  Hopefully the word has spread that SM has been hired by them which is great news (can you feel the jealously?!?), as our class genius it's what he deserves.</p>

@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 title: March 2020 Health Report
 ---
 
@@ -9,20 +10,20 @@ I've been trying out different habits, exercises, and eating patterns and postin
 
 ### Goal update
 
-Weight at start: 105kg / 47.5% fat 
+Weight at start: 105kg / 47.5% fat
 <br/>Eight weeks ago: 90kg / 32.0% fat
-<br/>Current weight: __90kg / 31.0% fat__
+<br/>Current weight: **90kg / 31.0% fat**
 <br/>Goal weight: 74kg [(according to BMI)](https://www.nhs.uk/live-well/healthy-weight/bmi-calculator/) or 20% [body fat](https://en.wikipedia.org/wiki/Body_fat_percentage#Typical_body_fat_amounts).
 
 ### Habits report
 
-|Habit|Measure|Kept to it?|
-| --- | -- | --------- |
-|I am a healthier living person|Aim to lose 3kg every six weeks | No weight loss) |
-|I am a runner|Go for a run at least two times a week | 5 weeks out of 8 |
-|I am a VR exercise enthusiast|Use VR workout at least three times a week | 5 weeks out of 8 |
-|I take the stairs|Stop using lifts | 6 weeks out of 6 |
-|I'm an occasional drinker|Have at most one night a week with alcohol consumption | 4 weeks out of 8 |
+| Habit                          | Measure                                                | Kept to it?      |
+| ------------------------------ | ------------------------------------------------------ | ---------------- |
+| I am a healthier living person | Aim to lose 3kg every six weeks                        | No weight loss)  |
+| I am a runner                  | Go for a run at least two times a week                 | 5 weeks out of 8 |
+| I am a VR exercise enthusiast  | Use VR workout at least three times a week             | 5 weeks out of 8 |
+| I take the stairs              | Stop using lifts                                       | 6 weeks out of 6 |
+| I'm an occasional drinker      | Have at most one night a week with alcohol consumption | 4 weeks out of 8 |
 
 ### Thoughts on the last six weeks
 
@@ -38,15 +39,15 @@ The only thing that's picked me up with Paul Ritchie's advice:
 
 ### Next six weeks
 
-Honestly, who can plan the next six weeks right now? Due to storms, pandemics and the schools being off, my life has been knocked off its ordinary structured course. The habits I've built up are only effective provided I'm on the __normal__ routine if I'm going to an office and able to get out to run. When both of those things are limited I'm reverting back to laziness (play computer games, drink every two to three days, snacking).
+Honestly, who can plan the next six weeks right now? Due to storms, pandemics and the schools being off, my life has been knocked off its ordinary structured course. The habits I've built up are only effective provided I'm on the **normal** routine if I'm going to an office and able to get out to run. When both of those things are limited I'm reverting back to laziness (play computer games, drink every two to three days, snacking).
 
 I intend to get things back into a more structured way, even if it means living at home for the next six weeks. So I'll have an exercise diary, go back to one drinking night a week and have more disciplined meals. It's about rebuilding habits around this new normal.
 
 ### Good things in this period
 
-* 5k time down to 27m:37s from 27m:43s. I've also started walking or jogging back from work, making exercise part of the commute (outside of Pandemics).
-* I got to see Liverpool play Bournemouth. I go once a year, and it's brilliant to see the current team strutting their stuff.
-* I helped facilitate a remote meetup for the first time with CodeCraft, remote meetups usually suck, but ours didn't as we put a bit of effort into thinking about the UX of the event before it started. I'm quite proud of how smooth we made it.
+- 5k time down to 27m:37s from 27m:43s. I've also started walking or jogging back from work, making exercise part of the commute (outside of Pandemics).
+- I got to see Liverpool play Bournemouth. I go once a year, and it's brilliant to see the current team strutting their stuff.
+- I helped facilitate a remote meetup for the first time with CodeCraft, remote meetups usually suck, but ours didn't as we put a bit of effort into thinking about the UX of the event before it started. I'm quite proud of how smooth we made it.
 
 And finally, I wrote a song for the current COVID crisis:
 

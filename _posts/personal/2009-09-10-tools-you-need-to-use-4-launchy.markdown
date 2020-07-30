@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 status: publish
 published: true
 title: ! 'Tools you need to use #4: Launchy'
@@ -103,6 +104,7 @@ comments:
   content: Harsh.. But true. It looks like someone scraped some sick off the street
     and smeared it onto a computer monitor.
 ---
+
 <p><a href="http://www.launchy.net/"><img src="{{ site.url }}/images/2009/launchy_logo.jpg" alt="launchy_logo" title="launchy_logo" width="300" height="103" class="aligncenter size-full wp-image-849" /></a></p>
 <p>One killer feature on the Mac that I desperately craved on Windows was the Spotlight feature.  If you press Apple+Space it gives you an option to type some text.  This text is then used to search through all the applications and files you have.  It searches your email, music, dictionaries, basically everything on your machine.  I use it as the primary way of opening applications and files on my MacBook.</p>
 <p><img src="{{ site.url }}/images/2009/spotlight.jpg" alt="spotlight" title="spotlight" width="420" height="315" class="aligncenter size-full wp-image-846" /></p>

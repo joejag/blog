@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 status: publish
 published: true
 title: Happy New Year
@@ -16,8 +17,7 @@ date: !binary |-
   MjAwNi0wMS0wNCAwNToxMzo1MyArMDAwMA==
 date_gmt: !binary |-
   MjAwNi0wMS0wNCAwNToxMzo1MyArMDAwMA==
-categories:
-- life
+
 - music
 tags: []
 comments:
@@ -114,6 +114,7 @@ comments:
     MjAwNi0wMS0xMCAwOTo1MDoyMiArMDAwMA==
   content: I think we can both agree that argument is on the road to nowhere...
 ---
+
 <p>Happy new year all,</p>
 <p>First off, thanks to Paul for making an rss feed reader to save me putting all your blogs into my works WWW visited pages filter (Im monitored).  The next step would be to put all the posts up on a unified page as well (though I know wordpress can by default only allow 250 characters to be read of a post).  My coding bug didnt really bite for the Ugly Game over xmas so I have a PoC only on my laptop.  It will forever be one of those projects that wasnt meant to be (that and my webhost doesnt allow Hibernate to be used, meh).</p>
 <p>Secondly, JoeVod started us off with a first list of top 5s.  Here is mine so I can look back in nostalgia at the year 2005 some time from now.  </p>

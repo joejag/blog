@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 status: publish
 published: true
 title: Scrabble Scores
@@ -53,6 +54,7 @@ comments:
     Happy Christmas :-) I might come over on some Thursday to see you both if that''s
     ok. In 2009 when I''m back at work.'
 ---
+
 <p>I heard some pundits on the radio jostling about sports players with the best surnames for Scabble (ignoring the proper nouns rule).  The best they came up with was Wayne Gretzky with 24.  Unfortunately for the world, this made me think this would be a pretty nifty short programming task to do (<a href="http://www.mywiredempire.com/svn/repos/dave_thomas_kata/src/kata/football/">src</a>, <a href="http://www.mywiredempire.com/svn/repos/dave_thomas_kata/test/kata/football/">tests</a>).  Doesn't everyone hobby code over the weekend?</p>
 <p>Scrabble has rules to abide by, such as no hypenated words (good bye <a href="http://en.wikipedia.org/wiki/Eric_Djemba-Djemba">Eric Djemba-Djemba</a>) and due to the English character set we can't have any accentated letters (goodbye the otherwise similarly fantasticly named winner <a href="http://en.wikipedia.org/wiki/Francisco_Jim%C3%A9nez_Tejada">Francisco Jim&eacute;nez Tejada</a>)</p>
 <p>So here goes, the official best scrabble surnames for any player ever to have played in the English Premier League (one player allowed per letter for better distribution/bad code):</p>

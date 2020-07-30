@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: ['blog']
 status: publish
 published: true
 title: Talk Talk Talks
@@ -78,6 +79,7 @@ comments:
 
     Thanks for being a part of this!'
 ---
+
 <p><img src="{{ site.url }}/images/2009/talks.jpg" /></p>
 <p>This week has been a great week for hearing about new tech.  On Tuesday I did a presentation at work about <a href="https://hudson.dev.java.net">Hudson</a> and <a href="http://sonar.codehaus.org/">Sonar</a>.  Hudson is a CI server and Sonar is a great way to track metrics on your codebase.</p>
 <p>On Wednesday I went along to the Java User Group Scotland and checked out a great talk done by <a href="http://bozdagstudio.com/selcuk/">Selcuk Bozdag</a> on <a href="http://www.adobe.com/products/flex/">Flex</a> development.  Flex allows you to make pretty cool Flash based applications which can talk to remote services.  It isn't tied to Java like I originally thought.  There's an awful lot of out of the box charting and video tools which seem useful.</p>
