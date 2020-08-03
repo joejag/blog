@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 header {
   border-bottom: black solid;
@@ -55,41 +55,46 @@ time {
 }
 
 @media (max-width: 800px) {
-.site {
-  width: 26em;
-  margin: 3em auto 2em;
-}
+  .site {
+    width: 26em;
+    margin: 3em auto 2em;
+  }
 }
 
 @media (max-width: 500px) {
-p {
-  font-size:0.85em;
-  line-height: 1.6em;
+  p {
+    font-size: 0.85em;
+    line-height: 1.6em;
+  }
+
+  .title {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+  }
+  .site {
+    width: 20em;
+    margin: 3em auto 2em;
+  }
+
+  .post-title {
+    font-size: 1.5em;
+    line-height: 1.2em;
+  }
+
+  article {
+    padding-left: 0em;
+    margin-left: 0em;
+    margin-bottom: 1em;
+  }
+
+  time {
+    top: 0;
+    position: relative;
+    line-height: 1em;
+  }
 }
 
-.title {
-  font-size: 1.5em;
-  margin-bottom: 1em;
-}
-.site {
-  width: 20em;
-  margin: 3em auto 2em;
-}
-
-.post-title {
-  font-size: 1.5em;
-  line-height: 1.2em;
-}
-
-article {
-  padding-left: 0em;
-  margin-left: 0em;
-  margin-bottom: 1em;
-}
-
-time {
- top: 0;
- position: relative;
- line-height: 1em;
-}
+.walk_photos {
+  text-align: center;
+  line-height: normal;
 }
