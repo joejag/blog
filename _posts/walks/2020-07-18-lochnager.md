@@ -7,7 +7,7 @@ title: 'Walked: Lochnager &amp; the White Mounth Munros'
 <img width="100%" src="/images/walks/lochnager/lochnager.jpg">
 
 - Where: [Lochnager](https://www.walkhighlands.co.uk/cairngorms/white-mounth.shtml)
-- Region: Cairngorns
+- Region: Cairngorms
 - With: Adrian & Ania
 - Ascent: 1228m
 - Distance: 29km
