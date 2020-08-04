@@ -23,10 +23,10 @@ title: 'Walked: Lochnager and the White Mounth Munros'
 
 ### Notes
 
-- We started out just wanting to go up Lochnager, but realised we could do a circuit of four other Munro's
-- Hill walking is addictive
+- We started just wanting to go up Lochnager but realised we could do a circuit of four other Munro's
+- Hillwalking is addictive
 - Dried Mango is a great hill snack
-- Ballatar is a great place to have chips
+- Ballater is a great place to have chips
 
 ### To improve
 

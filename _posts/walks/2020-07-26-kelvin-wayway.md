@@ -15,9 +15,9 @@ title: 'Walked: Kelvin Walkway'
 
 ### Notes
 
-- I started the route from Central station, walked along the Clyde to the Riverside museum then did the route following the Kelvin to the Allander at Milngavie
+- I started the route from Central station, walked along the Clyde to the Riverside museum then did the path following the Kelvin to the Allander at Milngavie
 - I didn't realise that Rangers football club is on the way, this right after driving past the Celtic training ground on the last trip
-- After Maryhill the route goes from nice path to overgrown muddy fields. This might be nice to try again in the Winter.
+- After Maryhill, the route goes from a nice path to overgrown, muddy fields. This might be nice to try again in the Winter.
 - Waterproof trousers stick when it's warm, but you feel invincible in rainy conditions in them
 
 ### To improve

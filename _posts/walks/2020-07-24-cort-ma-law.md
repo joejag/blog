@@ -20,11 +20,11 @@ title: 'Walked: Cort-ma Law'
 
 ### Notes
 
-- After parking in the ["car park in the sky"](https://www.tripadvisor.co.uk/ShowUserReviews-g186570-d214735-r168617693-Gleniffer_Braes_Country_Park-Paisley_Renfrewshire_Scotland.html) we discovered the Campsies were suffering from low cloud. Visibility was about 10 metres. We used the edge of the hill as a handrail to climb
-- Once we went across to Lecket Hill, and lost the view back to Glasgow, it cleared up
+- After parking in the ["car park in the sky"](https://www.tripadvisor.co.uk/ShowUserReviews-g186570-d214735-r168617693-Gleniffer_Braes_Country_Park-Paisley_Renfrewshire_Scotland.html), we discovered the Campsies were suffering from a low cloud. Visibility was about 10 metres. We used the edge of the hill as a handrail to climb
+- Once we went across to Lecket Hill and lost the view back to Glasgow, it cleared up
 - Super boggy. Alexander had the wrong shoes on and got very wet
 - The pyramid things on top of hills are called ["Trig Points"](https://en.wikipedia.org/wiki/Triangulation_station)
-- The human placed bunch of rocks on top of a hill are called a ["Cairn"](https://en.wikipedia.org/wiki/Cairn)
+- The human placed a bunch of rocks on top of a hill are called a ["Cairn"](https://en.wikipedia.org/wiki/Cairn)
 - Loads of wildlife, we spotted a number of frogs and birds
 - Alexander loved discovering a thistle
 
