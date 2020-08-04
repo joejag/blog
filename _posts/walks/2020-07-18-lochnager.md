@@ -1,7 +1,7 @@
 ---
 layout: walkpost
 categories: ['walk']
-title: 'Walked: Lochnager and the White Mounth Munros'
+title: 'Walked: Lochnager &amp; the White Mounth Munros'
 ---
 
 <img width="100%" src="/images/walks/lochnager/lochnager.jpg">
