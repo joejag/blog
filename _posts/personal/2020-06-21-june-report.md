@@ -1,7 +1,6 @@
 ---
 layout: post
 categories: ['blog']
-categories: ['blog']
 title: June 2020 Health Report
 ---
 
