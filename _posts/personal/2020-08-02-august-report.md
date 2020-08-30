@@ -78,4 +78,4 @@ We delayed Alexander's birthday party until you could have people from two other
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Ain’t no party like a Minecraft LAN Party <a href="https://t.co/w9Wro9sRv9">pic.twitter.com/w9Wro9sRv9</a></p>&mdash; Joe Wright (@joe_jag) <a href="https://twitter.com/joe_jag/status/1281620615850528771?ref_src=twsrc%5Etfw">July 10, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-See you, someone up a hill, around 13th September 2020.
+See you, somwhere up a hill, around 13th September 2020.
