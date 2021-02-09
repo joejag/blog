@@ -19,7 +19,7 @@ Weight at start: 105kg / 47.5% fat
 <br/>Current weight: **80kg / 23.8% fat**
 <br/>Goal weight: 74kg [(according to BMI)](https://www.nhs.uk/live-well/healthy-weight/bmi-calculator/) or 20% [body fat](https://en.wikipedia.org/wiki/Body_fat_percentage#Typical_body_fat_amounts).
 
-<img alt='graph of weight progress over the last eight weeks' width="100%" src="{{ site.url }}/images/2020/weight_october.png" />
+<img alt='graph of weight progress over the last eight weeks' width="100%" src="/images/2020/weight_october.png" />
 
 ### Habits report
 
