@@ -29,14 +29,16 @@ Weight at start: 105kg / 47.5% fat
 
 ### Thoughts on the last 18 weeks
 
-I've totally lost my discipline.
+I've lost my discipline.
 
-Christmas wasn't too bad, but the second lockdown has hijacked my good habits around walking kids to school and going out for long walks at weekends. Those weekend walks meant I didn't overindugle the night before as I wanted to be in good shape. Now, what's the point? I've walked the same park over 100 times in the last 18 weeks. It's really dull now.
+Christmas wasn't too bad, but it started a trend. The second lockdown has hijacked my ability to recover by eliminating my good habits around walking kids to school and going out for long walks at weekends. Those weekend walks meant I didn't overindulge the night before as I wanted to be in good shape. Now, what's the point? I've walked the same park over 100 times in the last 18 weeks, and I know every route near my home. It's so dull now.
 
-I've been trying to recover habits so I didn't have to post my first ever "Whoops - I gained weight" update, but this is where we are.
+I've been trying to recover habits, so I didn't have to post my first ever "Whoops - I gained weight" update, but this is where we are - six extra weeks of denial.
 
 ### Next six weeks
 
-Being able to travel for outdoor informal exercise would be great. But I cannot rely on that changing soon. I've been looking at some longer walks you can do around Glasgow city centre, there's one where you go past 21 bridges and another taking in all the Murals around the city.
+Being able to travel for informal outdoor exercise would be great. But I cannot rely on that changing soon. I've been looking at some longer walks you can do around Glasgow city centre, there's one where you go past 21 bridges and another taking in all the Murals around the city.
 
-Deep down I know what to do. It's written above in the table. Log what you eat, exercise twice a day. I'll try to get back to who I was before.
+Deep down, I know what to do. It's written above in the table. Log what you eat, exercise twice a day, be good six days out of seven.
+
+I'll try to get back to who I was before.
