@@ -94,8 +94,8 @@ comments:
 ---
 
 <p>Last year after watching children run around laughing, Alison and I decided it's time to have our own kids.  A few months later we were checked in to get our first baby scan.</p>
-<p><img src="{{ site.url }}/images/2010/nine_weeks.jpg" width="490" height="370" /></p>
+<p><img src="/images/2010/nine_weeks.jpg" width="490" height="370" /></p>
 <p>At this point the baby is the the same size as an <a href="http://www.in-gender.com/cs/forums/t/94345.aspx">Apple pip</a> or a <a href="http://www.hisboyscanswim.com/605/tarzans-ultimate-guide-to-baby-sizes-week-by-week-for-soon-to-be-fathers">Marble</a>.</p>
 <p>Fast forward 6 weeks and we are talking Baseballs and Avocados:</p>
-<p><img src="{{ site.url }}/images/2010/fifteen_weeks.jpg" width="490" height="370" /></p>
+<p><img src="/images/2010/fifteen_weeks.jpg" width="490" height="370" /></p>
 <p>The baby (we don't want to know the sex) is due on the 26th June.  Right during the <a href="http://www.fifa.com/worldcup/matches/kostage.html">knockout stages</a> of the World Cup.  Alison says she's going to wait for an England game to give birth!</p>

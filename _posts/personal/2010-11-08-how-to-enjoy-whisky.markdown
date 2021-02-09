@@ -88,9 +88,9 @@ comments:
 <h3>Equipment</h3></p>
 <p>It's important to have a correctly shaped glass to taste the Whisky, don't go in for the crystal tumble numbers you see in films, go for something Tulip shaped like a Champagne glass.  These allow you to take in the aromas of Whisky a lot better.  </p>
 <p style="text-align: center; font-weight: bold">Good!</span><br />
-<img width="453" height="355" src="{{ site.url }}/images/2010/whisky_good.jpg" /></p>
+<img width="453" height="355" src="/images/2010/whisky_good.jpg" /></p>
 <p style="text-align: center; font-weight: bold">Bad!</span><br />
-<img src="{{ site.url }}/images/2010/whisky_bad.jpg" /></p>
+<img src="/images/2010/whisky_bad.jpg" /></p>
 <p>Serve a single shot (dram) of each Whisky in a room temperature glass.</p>
 
 <h3>The Process</h3></p>

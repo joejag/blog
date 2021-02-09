@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: ['blog']
+categories: ["blog"]
 status: publish
 published: true
 title: Masters Team
@@ -8,7 +8,7 @@ author:
   display_name: Joe Wright
   login: joejag
   email: joe@joejag.com
-  url: ''
+  url: ""
 author_login: joejag
 author_email: joe@joejag.com
 wordpress_id: 24
@@ -42,4 +42,4 @@ comments:
 
 <p>I recently finished a course module on starting up an eBusiness.  Our idea was "eHunger", basically taking a bunch of normal takeaways and putting them all online and lots of other fuzziness.  We had all the tech buzz words down to: J2ME (Phone App), EJBS,  MVC, XML, SOAP Web Service, MySQL, PDF Creation, Java, XHTML...</p>
 <p>Here's a picture from our trade fair of us! (I'm the guy on the left)</p>
-<p><img src="{{ site.url }}/images/2005/team.jpg"  /></p>
+<p><img src="/images/2005/team.jpg"  /></p>

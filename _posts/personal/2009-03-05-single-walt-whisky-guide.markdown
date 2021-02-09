@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: ['blog']
+categories: ["blog"]
 status: publish
 published: true
 title: Single Malt Whisky Guide
@@ -8,7 +8,7 @@ author:
   display_name: Joe Wright
   login: joejag
   email: joe@joejag.com
-  url: ''
+  url: ""
 author_login: joejag
 author_email: joe@joejag.com
 wordpress_id: 621
@@ -69,7 +69,7 @@ td+td {	border-left: 1px solid #CCC;	text-align: center;	}
 
 <p>Always remember to put a dash of water with your Whisky as it unlocks a lot of the hidden flavour.  </p>
 <p>There are 6 main Whisky producing regions in Scotland of which Speyside is by far the largest producer.  I recommend you start off with a well known brand then explore more from the same region.</p>
-<img src="{{ site.url }}/images/2009/scotch_regions.png" width="400" height="400">
+<img src="/images/2009/scotch_regions.png" width="400" height="400">
 <p>Regions: <span class="islay">islay</span>, <span class="lowland">lowland</span>, <span class="campbletown">campbletown</span>, <span class="island">island</span>, <span class="speyside">Speyside</span>, <span class="highland">highland</span><br />
 
 <table>

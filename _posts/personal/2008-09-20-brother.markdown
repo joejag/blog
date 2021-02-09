@@ -127,5 +127,5 @@ $('#test2').crossSlide({<br />
 <script type='text/javascript' id='display-test2'><br />
   displaySource("test2");<br />
 </script></p>
-<p><embed type="application/x-shockwave-flash" src="{{ site.url }}/images/2008/Brother1.mp3"                width="490"                height="27" allowscriptaccess="never"                quality="best"                bgcolor="#ffffff"                wmode="window"               flashvars="playerMode=embedded" /><br />
+<p><embed type="application/x-shockwave-flash" src="/images/2008/Brother1.mp3"                width="490"                height="27" allowscriptaccess="never"                quality="best"                bgcolor="#ffffff"                wmode="window"               flashvars="playerMode=embedded" /><br />
 <br /></p>

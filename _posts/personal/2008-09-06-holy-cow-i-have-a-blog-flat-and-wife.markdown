@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: ['blog']
+categories: ["blog"]
 status: publish
 published: true
 title: Holy cow, I have a blog, flat and wife
@@ -8,7 +8,7 @@ author:
   display_name: Joe Wright
   login: joejag
   email: joe@joejag.com
-  url: ''
+  url: ""
 author_login: joejag
 author_email: joe@joejag.com
 wordpress_id: 86
@@ -41,7 +41,7 @@ comments:
   - id: 291
     author: Kevin McDonagh
     author_email: kevin@appletv.co.uk
-    author_url: ''
+    author_url: ""
     date: !binary |-
       MjAwOC0wOS0xMiAxMjowNDoyNSArMDEwMA==
     date_gmt: !binary |-
@@ -54,4 +54,4 @@ comments:
 <p>The huge news that I have is that in August this year Alison and I got <a href="http://flickr.com/photos/potatojunkie/sets/72157606648321511/">married</a> in the Trades Hall in Glasgow. We had an awesome day that wethoroughly enjoyed. We went to Florence for our honeymoon and drank many espressos.</p>
 <p>Now I've updated my blog and gave it a shiny new skin I'm planning to update it more often again (this is the 10 millionth time this has been said on a blog).</p>
 <p>It's good to be back!</p>
-<p><img src="{{ site.url }}/images/2008/married.jpg" /></p>
+<p><img src="/images/2008/married.jpg" /></p>

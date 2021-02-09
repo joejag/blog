@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: ['blog']
+categories: ["blog"]
 title: June 2020 Health Report
 ---
 
@@ -15,7 +15,7 @@ Weight at start: 105kg / 47.5% fat
 <br/>Current weight: **88kg / 27.8% fat**
 <br/>Goal weight: 74kg [(according to BMI)](https://www.nhs.uk/live-well/healthy-weight/bmi-calculator/) or 20% [body fat](https://en.wikipedia.org/wiki/Body_fat_percentage#Typical_body_fat_amounts).
 
-<img alt='graph of weight progress over the last six weeks' width="100%" src="{{ site.url }}/images/2020/weight_june.png" />
+<img alt='graph of weight progress over the last six weeks' width="100%" src="/images/2020/weight_june.png" />
 
 ### Habits report
 
@@ -55,7 +55,7 @@ Lockdown and injuries have scuppered my progress in 2020, but I'm feeling on top
 
 - My biggest laugh of the month came from Google mailing me with my cultural highlights in May:
 
-<img alt='tesco was my cultural highlight' width="100%" src="{{ site.url }}/images/2020/tesco.png" />
+<img alt='tesco was my cultural highlight' width="100%" src="/images/2020/tesco.png" />
 
 ### Best Tweets
 

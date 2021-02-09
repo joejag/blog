@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: ['blog']
+categories: ["blog"]
 title: Greatest English Club Side
 ---
 
@@ -8,13 +8,13 @@ Last night on Monday Night Football the hosts [Gary Neville](https://twitter.com
 
 The cool thing for me was that they created a scoring mechanism:
 
-<img alt='euro cups and league wins get the highest scores' width="100%" src="{{ site.url }}/images/2020/scores.jpg" />
+<img alt='euro cups and league wins get the highest scores' width="100%" src="/images/2020/scores.jpg" />
 
 They then agreed that a three year period is the justification for a great team, which seems fair to represent a period of dominance.
 
 They applied their scoring mechanism to every season since the second world war and came up with this chart:
 
-<img alt='euro cups and league wins get the highest scores' width="100%" src="{{ site.url }}/images/2020/table.jpg" />
+<img alt='euro cups and league wins get the highest scores' width="100%" src="/images/2020/table.jpg" />
 
 Something irked me though, I felt like another Liverpool team could fit in there, and the hosts were using their nostalgia to choose some of the teams on the list. So - being a massive geek with nothing better to do on a Tuesday night - I download the raw data for all the competitions for the league and [wrote a program](https://github.com/joejag/best_english_football_team_ever) to re-calculate their league table.
 

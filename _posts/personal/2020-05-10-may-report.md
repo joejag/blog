@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: ['blog']
+categories: ["blog"]
 title: May 2020 Health Report
 ---
 
@@ -15,7 +15,7 @@ Weight at start: 105kg / 47.5% fat
 <br/>Current weight: **90kg / 32.4% fat**
 <br/>Goal weight: 74kg [(according to BMI)](https://www.nhs.uk/live-well/healthy-weight/bmi-calculator/) or 20% [body fat](https://en.wikipedia.org/wiki/Body_fat_percentage#Typical_body_fat_amounts).
 
-<img alt='graph of weight progress over the last six weeks' width="100%" src="{{ site.url }}/images/2020/weight_may.png" />
+<img alt='graph of weight progress over the last six weeks' width="100%" src="/images/2020/weight_may.png" />
 
 ### Habits report
 

@@ -105,14 +105,14 @@ comments:
     and smeared it onto a computer monitor.
 ---
 
-<p><a href="http://www.launchy.net/"><img src="{{ site.url }}/images/2009/launchy_logo.jpg" alt="launchy_logo" title="launchy_logo" width="300" height="103" class="aligncenter size-full wp-image-849" /></a></p>
+<p><a href="http://www.launchy.net/"><img src="/images/2009/launchy_logo.jpg" alt="launchy_logo" title="launchy_logo" width="300" height="103" class="aligncenter size-full wp-image-849" /></a></p>
 <p>One killer feature on the Mac that I desperately craved on Windows was the Spotlight feature.  If you press Apple+Space it gives you an option to type some text.  This text is then used to search through all the applications and files you have.  It searches your email, music, dictionaries, basically everything on your machine.  I use it as the primary way of opening applications and files on my MacBook.</p>
-<p><img src="{{ site.url }}/images/2009/spotlight.jpg" alt="spotlight" title="spotlight" width="420" height="315" class="aligncenter size-full wp-image-846" /></p>
+<p><img src="/images/2009/spotlight.jpg" alt="spotlight" title="spotlight" width="420" height="315" class="aligncenter size-full wp-image-846" /></p>
 <p>I still use a Windows XP machine at my work, which means I have to manually search through the Start Menu for whatever application I need.  You can use the quick launch bar but that tends to get filled up fairly... well... quickly.  <a href="http://www.launchy.net/">Launchy</a> solves this problem.</p>
 <p>Launchy starts up when you log into Windows and offers you an on-demand dialog from a key combination.  This dialog allows you to launch any application on you machine.</p>
 <p>You simply hit Windows+Space (default is Alt+Space) to see a dialog, type 'f'. and press return to load Firefox.  </p>
 <p>It remembers your previous choices and quickly becomes optimised for the way you think.</p>
-<p><img src="{{ site.url }}/images/2009/launchyfire.jpg" alt="launchyfire" title="launchyfire" width="480" height="310" class="aligncenter size-full wp-image-850" /></p>
+<p><img src="/images/2009/launchyfire.jpg" alt="launchyfire" title="launchyfire" width="480" height="310" class="aligncenter size-full wp-image-850" /></p>
 <p>Windows Vista has a similar feature but it only works on whole words, which makes it pretty unusable.  Luckily Launchy works on XP, Vista and Linux.</p>
 <p>If you work in a job which requires you to use the Start Menu to launch applications, you can become much more productive (and happy) by using Launchy.</p>
 <h3>Other tools you need to use</h3></p>
