@@ -98,3 +98,19 @@ time {
   text-align: center;
   line-height: normal;
 }
+
+.attribution {
+  float: right;
+  font-style: italic;
+  font-size: 0.8em;
+  color: rgb(170, 170, 170);
+  margin-bottom: 2em;
+}
+
+.attribution:hover {
+  color: #2a7ae2;
+  text-decoration: underline;
+}
+.attribution:visited {
+  color: rgb(170, 170, 170);
+}
