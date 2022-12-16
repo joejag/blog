@@ -1,3 +1,8 @@
+---
+layout: post
+title: Single Malt Whisky Guide
+---
+
 <style type="text/css">
   /* Malt colours */
   .islay {
