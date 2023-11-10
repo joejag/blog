@@ -14,11 +14,12 @@ One difference I'm making is that my weight doesn't matter much. It's the fat ki
 
 ### Goal update
 
-Weight at start: 41.8kg fat
+| Stat         | Value                |
+| ------------ | -------------------- |
+| At the start | 102.4kg / 41.8kg fat |
+| Current      | 102.4kg / 41.8kg fat |
 
-<br/>Current fat: **41.8kg**
-<br/>Current weight: 102.4kg
-<br/>Goal weight: 20kg fat which is about 23% [body fat](https://en.wikipedia.org/wiki/Body_fat_percentage#Typical_body_fat_amounts) for me.
+Goal weight: 20kg fat.
 
 ### Habits report
 
