@@ -3,52 +3,63 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Mobile OCR with Camera</title>
+    <script src="https://cdn.jsdelivr.net/npm/tesseract.js@5/dist/tesseract.min.js"></script>
+
+    <title>Camera Photo Capture</title>
   </head>
   <body>
-    <button onclick="captureImage()">Capture Image</button>
     <div id="output"></div>
+    <video id="video" width="640" height="480" autoplay></video>
+    <button id="capture" onclick="capturePhoto()">Capture Photo</button>
+    <canvas id="canvas" width="640" height="480"></canvas>
 
-    <script src="https://cdn.rawgit.com/naptha/tesseract.js/1.0.10/dist/tesseract.js"></script>
     <script>
-      async function captureImage() {
+      // Get access to the camera
+      navigator.mediaDevices
+        .getUserMedia({ video: true })
+        .then((stream) => {
+          const video = document.getElementById('video')
+          video.srcObject = stream
+        })
+        .catch((error) => {
+          console.error('Error accessing camera:', error)
+        })
+
+      async function capturePhoto() {
+        const video = document.getElementById('video')
+        const canvas = document.getElementById('canvas')
+        const capture = document.getElementById('capture')
+        const context = canvas.getContext('2d')
+
+        // Draw the current video frame onto the canvas
+        context.drawImage(video, 0, 0, canvas.width, canvas.height)
+
+        // Convert the canvas content to a data URL (base64-encoded image)
+        const imageDataUrl = canvas.toDataURL('image/jpeg')
+
         const output = document.getElementById('output')
 
-        try {
-          // Request access to the camera
-          const stream = await navigator.mediaDevices.getUserMedia({ video: true })
+        const worker = await Tesseract.createWorker('eng')
+        const ret = await worker.recognize(imageDataUrl)
+        output.textContent = 'FOUND: ' + ret.data.text
+        await worker.terminate()
 
-          // Create a video element to display the camera feed
-          const video = document.createElement('video')
-          document.body.appendChild(video)
-          video.srcObject = stream
-          await video.play()
+        // Display the captured photo (optional)
+        const photoContainer = document.createElement('div')
+        const photo = document.createElement('img')
+        photo.src = imageDataUrl
+        photoContainer.appendChild(photo)
+        document.body.appendChild(photoContainer)
 
-          // Create a canvas element to capture a still image from the video feed
-          const canvas = document.createElement('canvas')
-          canvas.width = video.videoWidth
-          canvas.height = video.videoHeight
-          const context = canvas.getContext('2d')
-          context.drawImage(video, 0, 0, canvas.width, canvas.height)
+        // Stop the video stream (optional)
+        const stream = video.srcObject
+        const tracks = stream.getTracks()
+        tracks.forEach((track) => track.stop())
+        video.srcObject = null
 
-          // Stop the camera stream
-          stream.getTracks().forEach((track) => track.stop())
-
-          // Convert the canvas content to a base64-encoded image
-          const imageDataUrl = canvas.toDataURL('image/jpeg')
-
-          // Perform OCR on the captured image
-          const result = await Tesseract.recognize(imageDataUrl, 'eng', { logger: (info) => console.log(info) })
-
-          // Display the OCR result
-          output.textContent = `OCR Result: ${result.data.text}`
-
-          // Remove the video and canvas elements
-          document.body.removeChild(video)
-          document.body.removeChild(canvas)
-        } catch (error) {
-          console.error('Error accessing camera:', error)
-        }
+        video.remove()
+        canvas.remove()
+        capture.remove()
       }
     </script>
   </body>
