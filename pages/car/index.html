@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mobile OCR with Camera</title>
+  </head>
+  <body>
+    <button onclick="captureImage()">Capture Image</button>
+    <div id="output"></div>
+
+    <script src="https://cdn.rawgit.com/naptha/tesseract.js/1.0.10/dist/tesseract.js"></script>
+    <script>
+      async function captureImage() {
+        const output = document.getElementById('output')
+
+        try {
+          // Request access to the camera
+          const stream = await navigator.mediaDevices.getUserMedia({ video: true })
+
+          // Create a video element to display the camera feed
+          const video = document.createElement('video')
+          document.body.appendChild(video)
+          video.srcObject = stream
+          await video.play()
+
+          // Create a canvas element to capture a still image from the video feed
+          const canvas = document.createElement('canvas')
+          canvas.width = video.videoWidth
+          canvas.height = video.videoHeight
+          const context = canvas.getContext('2d')
+          context.drawImage(video, 0, 0, canvas.width, canvas.height)
+
+          // Stop the camera stream
+          stream.getTracks().forEach((track) => track.stop())
+
+          // Convert the canvas content to a base64-encoded image
+          const imageDataUrl = canvas.toDataURL('image/jpeg')
+
+          // Perform OCR on the captured image
+          const result = await Tesseract.recognize(imageDataUrl, 'eng', { logger: (info) => console.log(info) })
+
+          // Display the OCR result
+          output.textContent = `OCR Result: ${result.data.text}`
+
+          // Remove the video and canvas elements
+          document.body.removeChild(video)
+          document.body.removeChild(canvas)
+        } catch (error) {
+          console.error('Error accessing camera:', error)
+        }
+      }
+    </script>
+  </body>
+</html>
