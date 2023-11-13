@@ -16,7 +16,7 @@
     <script>
       // Get access to the camera
       navigator.mediaDevices
-        .getUserMedia({ video: true })
+        .getUserMedia({ video: { facingMode: 'environment' } })
         .then((stream) => {
           const video = document.getElementById('video')
           video.srcObject = stream
